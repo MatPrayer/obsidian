@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "d7f5d9e03b6646fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b14df92e7c17f9ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f74d1af86184ca3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c588e312315e797",
+    "type": "split",
+    "children": [
+      {
+        "id": "02eeee7de6fc9e23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1ca302e9a427099",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "ac24f715d3dfe756",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "composizio",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d42d9e2d15526c60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "821ed71eede5b349",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8dc6eff5c352334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd107803022daf89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c50ef928d18451df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "905c6161f63af5bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f72f95c96e855a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4f74d1af86184ca3",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "ALGEBRA LINEARE/Nucleo.md",
+    "2023-11-21.md",
+    "ALGEBRA LINEARE/Gruppi e campi.md",
+    "ALGEBRA LINEARE/Determinante.md",
+    "ANALISI/Calcolo differenziale/Derivata - Indice.md",
+    "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
+    "ALGEBRA LINEARE/Funzioni lineari.md",
+    "ALGEBRA LINEARE/Dipendenza e indipendenza lineare.md",
+    "Dipendenza.md",
+    "ANALISI/Calcolo differenziale/Definizione di Derivata.md",
+    "ALGEBRA LINEARE/Sottospazio.md",
+    "Sottospazi.md",
+    "ANALISI/Calcolo differenziale/Massimi e minimi relativi.md",
+    "ANALISI/Calcolo differenziale/Teorema di Fermat.md",
+    "ANALISI/Calcolo differenziale/Regole di derivazione.md",
+    "ANALISI/Calcolo differenziale/Derivabilità implica continuità.md",
+    "ANALISI/Funzioni continue/Funzioni continue.md",
+    "ALGEBRA LINEARE/Spazio vettoriale.md",
+    "ALGEBRA LINEARE/Prodotto vettoriale.md",
+    "ALGEBRA LINEARE/Applicazioni del determinante.md",
+    "ALGEBRA LINEARE/Determinante e operazioni elementari.md",
+    "ALGEBRA LINEARE/Teorema di Cramer.md",
+    "ALGEBRA LINEARE/Teorema di Laplace.md",
+    "ALGEBRA LINEARE/Combinazione lineare.md",
+    "ALGEBRA LINEARE/Basi.md",
+    "ALGEBRA LINEARE",
+    "ANALISI",
+    "Calcolo differenziale/Teoremi",
+    "ANALISI/Funzioni continue",
+    "ANALISI/Calcolo differenziale"
+  ]
+}
