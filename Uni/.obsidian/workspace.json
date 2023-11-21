@@ -11,8 +11,13 @@
             "id": "4f74d1af86184ca3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ALGEBRA LINEARE/Immagine di una funzione lineare.md"
+              }
             }
           }
         ],
@@ -141,6 +150,7 @@
   },
   "active": "4f74d1af86184ca3",
   "lastOpenFiles": [
+    "CELLI.md",
     "Untitled.canvas",
     "ALGEBRA LINEARE/Nucleo.md",
     "2023-11-21.md",

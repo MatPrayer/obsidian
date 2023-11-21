@@ -10,3 +10,5 @@ $$Im(f)=\lbrace v'\in V'|\exists v\in V \text{con} f(v)=v'\rbrace$$
 
 >**OSSERVAZIONE 3**
 >Se $\lbrace v_{1},\dots,v_{n}\rbrace$ è un sistema di generatori del dominio $V$ $\quad\implies\lbrace f(v_{1}),\dots,f(v_{m})$ è un sistema di generatori dell'immagine $Im(f)$
+
+CEEEELL
