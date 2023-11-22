@@ -1,5 +1,6 @@
 [
   "obsidian-plugin-toc",
   "obsidian-latex-suite",
-  "obsidian-git"
+  "obsidian-git",
+  "remotely-save"
 ]

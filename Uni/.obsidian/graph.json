@@ -1,22 +1,37 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
+  "showTags": true,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"ALGEBRA LINEARE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5422560
+      }
+    },
+    {
+      "query": "path:ANALISI  ",
+      "color": {
+        "a": 1,
+        "rgb": 7749874
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.421101888020833,
+  "collapse-forces": false,
+  "centerStrength": 0.485880533854167,
   "repelStrength": 10.52734375,
   "linkStrength": 1,
   "linkDistance": 279,
-  "scale": 1.067079666393946,
-  "close": false
+  "scale": 1.0337379699571143,
+  "close": true
 }
