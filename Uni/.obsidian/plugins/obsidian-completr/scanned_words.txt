@@ -57,6 +57,7 @@ color
 commette
 centro
 centrato
+convergenza
 sia
 sono
 se
@@ -104,6 +105,9 @@ sottos
 suriettiva
 superiore
 sappiamo
+significato
+stima
+sull
 derivabile
 derivabili
 detto
@@ -172,12 +176,15 @@ iniettiva
 immagine
 immagini
 infinitesimo
+invece
+informazione
 Allora
 Algebra
 Associativa
 Altrimenti
 Applicazioni
 Approssimazione
+Attenzione
 NOTA
 Non
 BENE
@@ -194,6 +201,8 @@ tre
 tramite
 trasposta
 taylor
+tende
+tratta
 le
 limite
 limiti
@@ -243,6 +252,7 @@ vettore
 versori
 volume
 vettoriali
+velocemente
 assoluto
 abbiamo
 ad
@@ -272,6 +282,7 @@ affermazioni
 approssimare
 approssimazione
 analoga
+approssimando
 punti
 punto
 principale
@@ -299,6 +310,8 @@ parallelogramma
 particolare
 parallelepipedo
 polinomio
+permette
+possa
 Consideriamo
 Criterio
 Caratterizzazione
@@ -488,6 +501,8 @@ quadrata
 queste
 quadrato
 quando
+quantitativa
+quanto
 WIP
 Punti
 Prodotto
@@ -508,3 +523,4 @@ Verso
 Versori
 Questa
 Jordan
+zero

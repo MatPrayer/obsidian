@@ -4,7 +4,7 @@ Per $n=1$, sappiamo che $t_1(x)=f(x_{0})+f'(x_{0})(x-x_{0})$ rappresenta la rett
 $$f\text{ derivabile in }x_{0}\quad\implies\quad f(x)=T_1(x)+o(x-X_0)\text{ per }x\tox_0$$
 Vale una proprietà analoga per il polinomio di Taylor di ordine $n>1$:
 
-### Teorema della formula di Taylor con resto di Peano
+## Teorema della [[Formula di Taylor |formula di Taylor]] con resto di Peano
 
 Sia $f:(a,b)\to\Re$ derivabile $n$ volte ($n\ge 1$) in un punto $x_0\in(a,b)$. Allora
 

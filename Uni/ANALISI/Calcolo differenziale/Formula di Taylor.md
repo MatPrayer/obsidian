@@ -1,7 +1,7 @@
 ---
 ~
 ---
-Sia $f:(a,b)\to\Re$ una funzione derivabile in un punto $x_0\in (a,b)$:
+Sia $f:(a,b)\to\Re$ una funzione [[Definizione di Derivata |derivabile]] in un punto $x_0\in (a,b)$:
 $$\lim_{x\to x_0} \frac{f(x)-f(x_0)}{x-x_0}=f'(x_0)$$
 equivale a:
 $$\lim_{x\to x_0} \frac{f(x)-f(x_0)}{x-x_0}-f'(x_0)=0$$
