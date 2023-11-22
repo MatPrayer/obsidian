@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+                "file": "ALGEBRA LINEARE/Funzioni lineari.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+                "file": "ALGEBRA LINEARE/Funzioni lineari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+                "file": "ALGEBRA LINEARE/Funzioni lineari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md"
+                "file": "ALGEBRA LINEARE/Funzioni lineari.md"
               }
             }
           }
@@ -150,8 +149,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f1ca302e9a427099",
+  "active": "2940904d7c5c5f38",
   "lastOpenFiles": [
+    "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor.md",
     "ALGEBRA LINEARE/Sottospazio.md",
     "ALGEBRA LINEARE/Combinazione lineare.md",
@@ -178,7 +178,6 @@
     "ALGEBRA LINEARE/Prodotto vettoriale.md",
     "ALGEBRA LINEARE/Applicazioni del determinante.md",
     "ALGEBRA LINEARE/Determinante e operazioni elementari.md",
-    "ALGEBRA LINEARE/Teorema di Cramer.md",
     "ALGEBRA LINEARE",
     "ANALISI",
     "Calcolo differenziale/Teoremi",
