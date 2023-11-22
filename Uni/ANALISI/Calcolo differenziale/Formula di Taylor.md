@@ -28,4 +28,8 @@ $$T_{1}(x)=f(x_{0})+f'(x_{0})(x-x_{0})$$
 	- $T_{1}(x_{0})=f(x_{0})$
 	- $T'_{1}(x_{0})=f'(x_{0})$
 
-- Supponendo che $f$ sia derivabile $n$ volte in $x_{0}$, 
+- Supponendo che $f$ sia derivabile $n$ volte in $x_{0}$, il polinomio $T_{n}(x)$ di grado $\le n$ è tale che:
+	- $T_{n}(x_{0})=f(x_{0})$
+	- $T'(x_{0})=f'(x_{0})$
+	- $\dots$
+	- $T_{n}^{(n)}(x_{0})=f^(n)(x_{0})$
