@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md"
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md"
               }
             }
           }
@@ -151,8 +152,8 @@
   },
   "active": "2940904d7c5c5f38",
   "lastOpenFiles": [
-    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
     "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
     "ALGEBRA LINEARE/Funzioni lineari.md",
     "ALGEBRA LINEARE/Sottospazio.md",
     "ALGEBRA LINEARE/Combinazione lineare.md",
