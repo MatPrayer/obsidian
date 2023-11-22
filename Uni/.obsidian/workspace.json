@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALGEBRA LINEARE/Gruppi e campi.md",
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALGEBRA LINEARE/Gruppi e campi.md",
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALGEBRA LINEARE/Gruppi e campi.md",
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALGEBRA LINEARE/Gruppi e campi.md"
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "4a33fd7af8f3fca6",
   "lastOpenFiles": [
+    "ALGEBRA LINEARE/Gruppi e campi.md",
     "ANALISI/Calcolo differenziale/Derivata - Indice.md",
     "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
     "ALGEBRA LINEARE/Nucleo.md",
@@ -158,7 +159,6 @@
     "CELLI.md",
     "Untitled.canvas",
     "2023-11-21.md",
-    "ALGEBRA LINEARE/Gruppi e campi.md",
     "ALGEBRA LINEARE/Determinante.md",
     "ALGEBRA LINEARE/Dipendenza e indipendenza lineare.md",
     "Dipendenza.md",
