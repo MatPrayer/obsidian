@@ -17,19 +17,3 @@ La retta $f(x_0)+f'(x_0)(x-x_0)$ approssima il grafico della funzione $f(x)$ meg
 Possiamo approssimare la funzione con un polinomio di grado $\le 1$, vicino al punto $x_0$:
 $$f(x)=\underbrace{f(x_0)+f'(x_0)(x-x_0)}_{T_1(x)}+\underbrace{o(x-x_0)}_{\text{resto o errore}}\quad\text{per } x\to x_0$$
 dove l'errore che si commette è un **infinitesimo di ordine superiore** a $x-x_0$ per $x\to x_0$.
-
-### Approssimazione con polinomi di grado $n$
-
-Data la funzione $f:(a,b)\to\Re, x_0\in (a,b)$,  possiamo approssimare $f$ ***vicino ad $x_0$*** con un polinomio $T_n(x)$ di grado $\le n$:
-
-- Se $f$ è derivabile in $x_{0}$, è possibile con un polinomio di grado $\le 1$:
-$$T_{1}(x)=f(x_{0})+f'(x_{0})(x-x_{0})$$
-	Il polinomio $T_{1}$ ha le proprietà:
-	- $T_{1}(x_{0})=f(x_{0})$
-	- $T'_{1}(x_{0})=f'(x_{0})$
-
-- Supponendo che $f$ sia derivabile $n$ volte in $x_{0}$, il polinomio $T_{n}(x)$ di grado $\le n$ è tale che:
-	- $T_{n}(x_{0})=f(x_{0})$
-	- $T'(x_{0})=f'(x_{0})$
-	- $\dots$
-	- $T_{n}^{(n)}(x_{0})=f^{(n)}(x_{0})$
