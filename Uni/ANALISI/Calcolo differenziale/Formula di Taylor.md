@@ -15,6 +15,4 @@ La retta $f(x_0)+f'(x_0)(x-x_0)$ approssima il grafico della funzione $f(x)$ meg
 
 ### La retta tangente come migliore approssimante affine
 Definizione equivalente di $f(x)$ derivabile in $x_0$:
-$$f(x)=f(x_0)+f'(x_0)(x-x_0)+\underbrace{o(x-x_0)}_{\text{resto o errore}}\quad\text{per } x\to x_0$$
-
-è detta $T_1(x)$
+$$f(x)=\underbrace{f(x_0)+f'(x_0)(x-x_0)}_{T_1(x)}+\underbrace{o(x-x_0)}_{\text{resto o errore}}\quad\text{per } x\to x_0$$
