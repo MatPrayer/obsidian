@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALGEBRA LINEARE/Funzioni lineari.md",
+                "file": "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALGEBRA LINEARE/Funzioni lineari.md",
+                "file": "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALGEBRA LINEARE/Funzioni lineari.md",
+                "file": "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALGEBRA LINEARE/Funzioni lineari.md"
+                "file": "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md"
               }
             }
           }
@@ -151,8 +152,9 @@
   },
   "active": "2940904d7c5c5f38",
   "lastOpenFiles": [
-    "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+    "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
+    "ALGEBRA LINEARE/Funzioni lineari.md",
     "ALGEBRA LINEARE/Sottospazio.md",
     "ALGEBRA LINEARE/Combinazione lineare.md",
     "ALGEBRA LINEARE/Generatori.md",
@@ -162,7 +164,6 @@
     "ANALISI/Calcolo differenziale/Derivata - Indice.md",
     "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
     "ALGEBRA LINEARE/Nucleo.md",
-    "ALGEBRA LINEARE/Funzioni lineari.md",
     "CELLI.md",
     "Untitled.canvas",
     "2023-11-21.md",
