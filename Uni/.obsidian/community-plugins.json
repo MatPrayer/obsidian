@@ -2,6 +2,7 @@
   "obsidian-plugin-toc",
   "obsidian-git",
   "remotely-save",
-  "obsidian-latex-suite",
-  "custom-sort"
+  "custom-sort",
+  "link-with-alias",
+  "obsidian-completr"
 ]

@@ -55,6 +55,8 @@ cofattori
 codominio
 color
 commette
+centro
+centrato
 sia
 sono
 se
@@ -101,6 +103,7 @@ spazi
 sottos
 suriettiva
 superiore
+sappiamo
 derivabile
 derivabili
 detto
@@ -190,6 +193,7 @@ tutto
 tre
 tramite
 trasposta
+taylor
 le
 limite
 limiti
@@ -266,6 +270,8 @@ angolo
 area
 affermazioni
 approssimare
+approssimazione
+analoga
 punti
 punto
 principale
@@ -353,6 +359,7 @@ Dipendenza
 Determinante
 Direzione
 Distributiva
+Domanda
 Tale
 Teorema
 Taylor
@@ -409,6 +416,7 @@ ottiene
 br
 base
 biunivoca
+buona
 Funzione
 Fermat
 Formula
@@ -437,10 +445,13 @@ riga
 righe
 risaliamo
 regola
+rappresenta
+resto
 Minimo
 Massimo
 Massimi
 Modulo
+MacLaurin
 ha
 globale
 geometrico
@@ -485,6 +496,7 @@ Per
 Premessa
 Proposizione
 Possiamo
+Peano
 Hospital
 Gruppo
 Gruppi

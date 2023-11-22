@@ -11,9 +11,17 @@
             "id": "2940904d7c5c5f38",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "78662842e87ea58c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
+                "file": "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -112,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -178,9 +183,10 @@
   },
   "active": "2940904d7c5c5f38",
   "lastOpenFiles": [
+    "ANALISI/Calcolo differenziale/Derivata - Indice.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
     "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
     "ANALISI/Calcolo differenziale/Approssimazione con polinomi di grado n.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor.md",
     "ANALISI/Calcolo differenziale/Punti critici.md",
     "ANALISI/Calcolo differenziale/Definizione di Derivata.md",
@@ -196,7 +202,6 @@
     "ALGEBRA LINEARE/Dipendenza e indipendenza lineare.md",
     "ALGEBRA LINEARE/Spazio vettoriale.md",
     "ALGEBRA LINEARE/Gruppi e campi.md",
-    "ANALISI/Calcolo differenziale/Derivata - Indice.md",
     "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
     "ALGEBRA LINEARE/Nucleo.md",
     "CELLI.md",
