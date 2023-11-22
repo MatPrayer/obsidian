@@ -20,3 +20,4 @@ dove l'errore che si commette è un **infinitesimo di ordine superiore** a $x-x_
 
 ### Approssimazione con polinomi di grado $n$
 
+Data la funzione $f:(a,b)\to\R, x_0\in (a,b)$,  

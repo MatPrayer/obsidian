@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "97d85026a9db0efb",
+        "id": "10972af5a5afc5c3",
         "type": "tabs",
         "children": [
           {
-            "id": "8aecc63ead63acf6",
+            "id": "2940904d7c5c5f38",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md"
+              }
             }
           }
         ],
@@ -141,7 +150,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8aecc63ead63acf6",
+  "active": "2940904d7c5c5f38",
   "lastOpenFiles": [
     "ANALISI/Calcolo differenziale/Formula di Taylor.md",
     "ALGEBRA LINEARE/Sottospazio.md",

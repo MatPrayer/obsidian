@@ -54,6 +54,7 @@ cofattore
 cofattori
 codominio
 color
+commette
 sia
 sono
 se
@@ -99,6 +100,7 @@ sostituendo
 spazi
 sottos
 suriettiva
+superiore
 derivabile
 derivabili
 detto
@@ -141,6 +143,7 @@ determinante
 dalla
 dello
 dai
+dove
 in
 il
 indicato
@@ -165,11 +168,13 @@ isomorfismo
 iniettiva
 immagine
 immagini
+infinitesimo
 Allora
 Algebra
 Associativa
 Altrimenti
 Applicazioni
+Approssimazione
 NOTA
 Non
 BENE
@@ -260,6 +265,7 @@ ammette
 angolo
 area
 affermazioni
+approssimare
 punti
 punto
 principale
@@ -286,6 +292,7 @@ paralleli
 parallelogramma
 particolare
 parallelepipedo
+polinomio
 Consideriamo
 Criterio
 Caratterizzazione
@@ -332,6 +339,7 @@ equivalenti
 ennuple
 esima
 endomorfismo
+errore
 Diciamo
 Derivata
 Data
@@ -476,6 +484,7 @@ Propriet
 Per
 Premessa
 Proposizione
+Possiamo
 Hospital
 Gruppo
 Gruppi
