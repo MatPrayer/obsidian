@@ -1,0 +1,1 @@
+**Domanda:** il polinomio di Taylor $T_n(x)$ di una funzione $f$ centrato in un punto $x_0$ 
