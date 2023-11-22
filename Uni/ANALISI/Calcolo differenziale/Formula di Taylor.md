@@ -14,5 +14,5 @@ $$\lim_{x\to x_0} \overbrace{\frac{f(x)-[f(x_0)+f'(x_0)(x-x_0)]}{x-x_0}}^{f(x)-[
 La retta $f(x_0)+f'(x_0)(x-x_0)$ approssima il grafico della funzione $f(x)$ meglio di qualunque altra retta, perché $f(x)-[f(x_0)+f'(x_0)(x-x_0)$ è molto più piccolo di $x-x_0$.
 
 ### La retta tangente come migliore approssimante affine
-Definizione equivalente di $f(x)$ derivabile in $x_0$:
+Possiamo approssimare la funzione con un polinomio di grado $\$, vicino al punto $x_0$:
 $$f(x)=\underbrace{f(x_0)+f'(x_0)(x-x_0)}_{T_1(x)}+\underbrace{o(x-x_0)}_{\text{resto o errore}}\quad\text{per } x\to x_0$$
