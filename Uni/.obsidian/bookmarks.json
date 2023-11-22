@@ -1,0 +1,133 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1700686026546,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1700686125854,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1700686125854,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Derivata - Indice.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Definizione di Derivata.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Derivabilità implica continuità.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Regole di derivazione.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Massimi e minimi relativi.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Teorema di Fermat.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Punti critici.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Teorema di Rolle.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Teorema di Cauchy.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Teorema di De L'Hospital.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Criterio di derivabilità.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Significato geometrico delle derivate (WIP).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Approssimazione con polinomi di grado n.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700686125854,
+                  "path": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "\\\\Calcolo differenziale"
+            }
+          ],
+          "title": "ANALISI"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

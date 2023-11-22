@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Approssimazione con polinomi di grado n.md",
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,9 +45,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d42d9e2d15526c60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,14 +90,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "d42d9e2d15526c60",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -173,15 +172,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ec001d1ce8c981df",
+  "active": "2940904d7c5c5f38",
   "lastOpenFiles": [
-    "ANALISI/Calcolo differenziale/Approssimazione con polinomi di grado n.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
     "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
+    "ANALISI/Calcolo differenziale/Approssimazione con polinomi di grado n.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
     "ANALISI/Calcolo differenziale/Punti critici.md",
     "ANALISI/Calcolo differenziale/Definizione di Derivata.md",
     "ANALISI/Calcolo differenziale/Regole di derivazione.md",
