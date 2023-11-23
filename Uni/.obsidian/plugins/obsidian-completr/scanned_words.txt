@@ -11,6 +11,7 @@ Soluzione
 Sviluppi
 Sviluppo
 Supponendo
+Somma
 che
 continua
 continue
@@ -63,6 +64,7 @@ centrato
 convergenza
 compreso
 coseno
+condizione
 sia
 sono
 se
@@ -188,6 +190,8 @@ infinitesimo
 invece
 informazione
 indeterminata
+indicare
+infinitesima
 Allora
 Algebra
 Associativa
@@ -195,6 +199,8 @@ Altrimenti
 Applicazioni
 Approssimazione
 Attenzione
+Anche
+Altre
 NOTA
 Non
 BENE
@@ -213,6 +219,8 @@ trasposta
 taylor
 tende
 tratta
+tiene
+termine
 le
 limite
 limiti
@@ -295,6 +303,7 @@ approssimare
 approssimazione
 analoga
 approssimando
+alleggerire
 punti
 punto
 principale
@@ -325,6 +334,8 @@ polinomio
 permette
 possa
 presentati
+precedente
+piccoli
 Consideriamo
 Criterio
 Caratterizzazione
@@ -347,6 +358,7 @@ utilizzando
 utilizzate
 unica
 utilizzata
+utilizzato
 ed
 esiste
 enunciato
@@ -389,6 +401,7 @@ Determinante
 Direzione
 Distributiva
 Domanda
+Dalla
 Tale
 Teorema
 Taylor
@@ -410,6 +423,7 @@ nella
 nucleo
 nell
 naturale
+notazione
 modi
 minimo
 massimo
@@ -451,6 +465,7 @@ base
 biunivoca
 buona
 binomio
+bassa
 Funzione
 Fermat
 Formula
@@ -500,6 +515,7 @@ generato
 geometrici
 geometria
 gli
+generica
 Il
 Indicato
 Infatti
@@ -547,5 +563,6 @@ Vale
 Verso
 Versori
 Questa
+Questo
 Jordan
 zero

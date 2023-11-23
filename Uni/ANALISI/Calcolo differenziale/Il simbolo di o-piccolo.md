@@ -1,5 +1,5 @@
 ## Il simbolo $o(1)$
-Il simbolo di $o(1)$ viene utilizzato per indicare una generica funzione infinitesima: 
+Il simbolo di $o(1)$ viene utilizzato per indicare una generica [[Funzione infinitesima |funzione infinitesima]]: 
 se $f$ è infinitesima per $x\to x_{0}$, si scrive
 $$f(x)=o(1)\qquad\text{per }x\to x_{0}$$
 Anche la condizione di limite finito si può riscrivere utilizzando il simbolo di $o(1)$:

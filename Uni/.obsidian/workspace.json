@@ -21,7 +21,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+                "file": "ANALISI/Calcolo differenziale/Approssimazione con polinomi di grado n.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "571c76e4825f0895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANALISI/Calcolo differenziale/Il simbolo di o-piccolo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87121e04e996a938",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+                "file": "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+                "file": "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md"
+                "file": "ALGEBRA LINEARE/Immagine di una funzione lineare.md"
               }
             }
           }
@@ -151,15 +177,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "985ecfedbfe85f4f",
+  "active": "87121e04e996a938",
   "lastOpenFiles": [
+    "ANALISI/Calcolo differenziale/Funzione infinitesima.md",
+    "ANALISI/Calcolo differenziale/Il simbolo di o-piccolo.md",
+    "ANALISI/Calcolo differenziale/Approssimazione con polinomi di grado n.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor nel calcolo dei limiti.md",
     "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
     "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
-    "ANALISI/Calcolo differenziale/Approssimazione con polinomi di grado n.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
     "ANALISI/Calcolo differenziale/Significato geometrico delle derivate (WIP).md",
     "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md",
     "ANALISI/Calcolo differenziale/Criterio di derivabilità.md",
@@ -174,11 +202,9 @@
     "ANALISI/Calcolo differenziale/Derivabilità implica continuità.md",
     "ANALISI/Calcolo differenziale/Definizione di Derivata.md",
     "ANALISI/Calcolo differenziale/Derivata - Indice.md",
-    "ALGEBRA LINEARE/Il simbolo di o-piccolo.md",
     "ALGEBRA LINEARE/Combinazione lineare.md",
     "ALGEBRA LINEARE/Spazio vettoriale.md",
     "ALGEBRA LINEARE/Funzioni lineari.md",
-    "ALGEBRA LINEARE/Sottospazio.md",
     "Untitled.canvas",
     "ALGEBRA LINEARE",
     "ANALISI",
