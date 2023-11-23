@@ -10,6 +10,7 @@ $$\log(1+x)=\sum_{k=1}^n\frac{(-1)^{k-1}}{k}x^k+o(x^n)$$
 $$\sin(x)=\sum_{k=0}^{n}\frac{(-1)^k}{(2k+1)!}x^{2k+1}+o(x^{2n+2})$$
 - **Funzione coseno**
 $$\cos(x)=\sum_{k=0}^n\frac{(-1)^k}{2k}x^{2k}+o(x^{2n+1})$$
-
-
+- **Funzione tangente inversa**
+$$\arctan(x)=\sum_{k=0}^n\frac{(-1)^k}{2k+1}x^{2k+1}+o(x^{2n+1})$$
 - **Sviluppo del binomio**
+$$(1+x)^\alpha=\sum_{k=0}^{n}\binom{\alpha}{k}x^k+o(x^n)$$
