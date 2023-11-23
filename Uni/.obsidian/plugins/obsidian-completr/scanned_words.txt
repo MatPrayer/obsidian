@@ -394,6 +394,7 @@ numero
 nullo
 nella
 nucleo
+nell
 modi
 minimo
 massimo

@@ -8,3 +8,6 @@ $$f(x)=\sum_{k=0}^n\frac{f^{(k)}(x_0)}{k!}(x-x_0)+\color{#00BDFF}\frac{f^{(n+1)}
 >Per $n=0$ otteniamo che 
 >$$f(x)=f(x_0)+f'(\xi)(x-x_{0})$$
 >per un punto $\xi$ compreso tra $x_{0}$ ed $x$, cioè il [[Teorema di Lagrange]]
+
+>**Osservazione**
+>Il ***resto nella forma di Lagrange*** permette una **stima quantitativa** dell'errore che si commette nell'approssimazione in un punto $x\ne x_{0}$

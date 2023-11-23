@@ -19,13 +19,8 @@
             "id": "fb8c83ae48baa1ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -71,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -88,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md"
-              }
+              "state": {}
             }
           }
         ],
@@ -154,12 +144,14 @@
   },
   "active": "fb8c83ae48baa1ed",
   "lastOpenFiles": [
-    "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
-    "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
+    "ALGEBRA LINEARE/Combinazione lineare.md",
+    "ALGEBRA LINEARE/Spazio vettoriale.md",
     "ANALISI/Calcolo differenziale/Derivata - Indice.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
+    "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+    "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
     "ANALISI/Calcolo differenziale/Approssimazione con polinomi di grado n.md",
     "ANALISI/Calcolo differenziale/Punti critici.md",
     "ANALISI/Calcolo differenziale/Definizione di Derivata.md",
@@ -169,10 +161,8 @@
     "ANALISI/Calcolo differenziale/Teorema di Cauchy.md",
     "ALGEBRA LINEARE/Funzioni lineari.md",
     "ALGEBRA LINEARE/Sottospazio.md",
-    "ALGEBRA LINEARE/Combinazione lineare.md",
     "ALGEBRA LINEARE/Generatori.md",
     "ALGEBRA LINEARE/Dipendenza e indipendenza lineare.md",
-    "ALGEBRA LINEARE/Spazio vettoriale.md",
     "ALGEBRA LINEARE/Gruppi e campi.md",
     "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
     "ALGEBRA LINEARE/Nucleo.md",

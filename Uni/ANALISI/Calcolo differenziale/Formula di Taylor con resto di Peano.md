@@ -1,7 +1,7 @@
 **Domanda:** il [[Polinomio di Taylor - MacLaurin |polinomio di Taylor]] $T_n(x)$ di una funzione $f$ centrato in un punto $x_0$ è una *buona approssimazione* di $f$ vicino al punto $x_0$?
 
 Per $n=1$, sappiamo che $t_1(x)=f(x_{0})+f'(x_{0})(x-x_{0})$ rappresenta la retta tangente al grafico di $f$ nel punto $(x_{0}),f(x_{0})$ e vale:
-$$f\text{ derivabile in }x_{0}\quad\implies\quad f(x)=T_1(x)+o(x-X_0)\text{ per }x\tox_0$$
+$$f\text{ derivabile in }x_{0}\quad\implies\quad f(x)=T_1(x)+o(x-X_0)\text{ per }x\to x_0$$
 Vale una proprietà analoga per il polinomio di Taylor di ordine $n>1$:
 
 ## Teorema della [[Formula di Taylor |formula di Taylor]] con resto di Peano
