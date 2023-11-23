@@ -11,4 +11,6 @@ $$o(f(x))=f(x)\cdot o(1)\quad\text{ per }x\to x_{0}$$
 Dalla definizione precedente segue che:
 $$g(x)=o(f(x))\quad\text{ per }x\to x_{0}\iff \lim_{ x \to x_{0} }\frac{g(x)}{f(x)}=0$$
 ## Algebra degli $o$ piccoli
-Per $x\to x_{0}$ 
+Per $x\to x_{0}$ vale che:
+- $o(1)+o(1)=o(1)$
+- $o(1)\cdot$
