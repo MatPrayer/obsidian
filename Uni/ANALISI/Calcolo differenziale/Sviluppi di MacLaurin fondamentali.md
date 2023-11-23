@@ -1,3 +1,12 @@
 # Sviluppi di [[Polinomio di Taylor - MacLaurin |MacLaurin]] fondamentali
 
-Per $x\to 0$ valgono gli sviluppi delle funzioni elementari 
+Per $x\to 0$ valgono gli sviluppi delle funzioni elementari:
+
+- **Funzione esponenziale**
+$$e^x=\sum_{k=0}^n \frac{x^k}{k!}+o(x^n)$$
+- **Funzione logaritmica naturale**
+$$\log(1+x)=\sum_{k=1}^n\frac{(-1)^{k-1}}{k}x^k+o(x^n)$$
+- **Funzione seno**
+$$\sin(x)=\sum_{k=0}^{n}\frac{(-1)^k}{(2k+1)!}x^{2k+1}+o(x^{2n+2})$$
+- **Funzione coseno**
+$$\cos(x)=\sum_{k=0}^n\frac{(-1)^k}{2k}x^{2k}+o(x^{2n+1})$$
