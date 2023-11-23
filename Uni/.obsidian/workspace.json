@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor nel calcolo dei limiti.md",
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "composizio",
+                "query": "o-pic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor nel calcolo dei limiti.md",
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor nel calcolo dei limiti.md",
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor nel calcolo dei limiti.md"
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md"
               }
             }
           }
@@ -151,17 +152,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "985ecfedbfe85f4f",
+  "active": "ac24f715d3dfe756",
   "lastOpenFiles": [
-    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor nel calcolo dei limiti.md",
+    "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange.md",
     "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
-    "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor nel calcolo dei limiti.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
     "ALGEBRA LINEARE/Combinazione lineare.md",
     "ALGEBRA LINEARE/Spazio vettoriale.md",
     "ANALISI/Calcolo differenziale/Derivata - Indice.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
     "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
     "ANALISI/Calcolo differenziale/Approssimazione con polinomi di grado n.md",
     "ANALISI/Calcolo differenziale/Punti critici.md",
