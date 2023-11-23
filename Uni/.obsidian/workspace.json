@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Teorema di Lagrange.md"
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md"
               }
             }
           }
@@ -154,6 +154,7 @@
   },
   "active": "fb8c83ae48baa1ed",
   "lastOpenFiles": [
+    "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
     "ANALISI/Calcolo differenziale/Formula di Taylor.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
@@ -166,7 +167,6 @@
     "ANALISI/Calcolo differenziale/Derivabilità implica continuità.md",
     "ANALISI/Calcolo differenziale/Massimi e minimi relativi.md",
     "ANALISI/Calcolo differenziale/Teorema di Cauchy.md",
-    "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
     "ALGEBRA LINEARE/Funzioni lineari.md",
     "ALGEBRA LINEARE/Sottospazio.md",
     "ALGEBRA LINEARE/Combinazione lineare.md",

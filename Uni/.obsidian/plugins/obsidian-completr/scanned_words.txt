@@ -152,6 +152,7 @@ dalla
 dello
 dai
 dove
+dipende
 in
 il
 indicato
@@ -427,6 +428,7 @@ ottemita
 oppure
 ortogonale
 ottiene
+otteniamo
 br
 base
 biunivoca
