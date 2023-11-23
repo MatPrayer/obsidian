@@ -10,4 +10,7 @@ $$f(x)=\sum_{k=0}^n\frac{f^{(k)}(x_0)}{k!}(x-x_0)+\color{#00BDFF}\frac{f^{(n+1)}
 >per un punto $\xi$ compreso tra $x_{0}$ ed $x$, cioè il [[Teorema di Lagrange]]
 
 >**Osservazione**
->Il ***resto nella forma di Lagrange*** permette una **stima quantitativa** dell'errore che si commette nell'approssimazione in un punto $x\ne x_{0}$
+>Il ***resto nella forma di Lagrange*** permette una **stima quantitativa** dell'errore che si commette nell'approssimazione in un punto $x\ne x_{0}$.
+>Infatti, per ogni intervallo $[a,b]$ che contiene $(x,x_{0})$:
+>$$\mid f(x)-T_{n}(x)\mid\le\frac{1}{(n+1)!}(sup_{t\in[a,b]}\mid f^{(n+1)}(t)\mid)\mid x-x_{0}\mid^{n+1}$$
+>

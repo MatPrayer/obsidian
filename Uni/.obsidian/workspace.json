@@ -16,11 +16,16 @@
             }
           },
           {
-            "id": "fb8c83ae48baa1ed",
+            "id": "985ecfedbfe85f4f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md"
+              }
             }
           }
         ],
@@ -142,7 +151,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "fb8c83ae48baa1ed",
+  "active": "985ecfedbfe85f4f",
   "lastOpenFiles": [
     "ALGEBRA LINEARE/Combinazione lineare.md",
     "ALGEBRA LINEARE/Spazio vettoriale.md",
