@@ -10,6 +10,7 @@ Spazio
 Soluzione
 Sviluppi
 Sviluppo
+Supponendo
 che
 continua
 continue
@@ -114,6 +115,7 @@ stima
 sull
 sviluppi
 seno
+sostituzioni
 derivabile
 derivabili
 detto
@@ -185,6 +187,7 @@ immagini
 infinitesimo
 invece
 informazione
+indeterminata
 Allora
 Algebra
 Associativa
@@ -321,6 +324,7 @@ parallelepipedo
 polinomio
 permette
 possa
+presentati
 Consideriamo
 Criterio
 Caratterizzazione
@@ -334,6 +338,7 @@ Come
 Cramer
 Corollario
 Calcolo
+Conoscendo
 una
 un
 unico
@@ -341,6 +346,7 @@ uno
 utilizzando
 utilizzate
 unica
+utilizzata
 ed
 esiste
 enunciato
@@ -439,6 +445,7 @@ oppure
 ortogonale
 ottiene
 otteniamo
+opportune
 br
 base
 biunivoca
@@ -474,6 +481,8 @@ risaliamo
 regola
 rappresenta
 resto
+risolvere
+ricavare
 Minimo
 Massimo
 Massimi
@@ -527,6 +536,7 @@ Premessa
 Proposizione
 Possiamo
 Peano
+Problema
 Hospital
 Gruppo
 Gruppi

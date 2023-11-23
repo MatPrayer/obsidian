@@ -12,7 +12,7 @@ $$f^{(n)}(x) \qquad D^{(n)}f(x) \qquad \frac{d^{(n)}f}{dx^{(n)}}(x)$$
 <br>
 
 ### Funzione di classe $C^k$
-Se $f:(a,b)\to\R$ è una funzione derivabile $k$ volte in $(a,b)$, e la derivata $f^{(k)}$ di ordine $k$ è una funzione continua in $(a,b)$,
+Se $f:(a,b)\to\Re$ è una funzione derivabile $k$ volte in $(a,b)$, e la derivata $f^{(k)}$ di ordine $k$ è una funzione continua in $(a,b)$,
 $f$ è **di classe $C^{(k)}$ in $(a,b)$**, e si scrive $f\in C^{(k)}(a,b)$.
 
 >**NOTA BENE**

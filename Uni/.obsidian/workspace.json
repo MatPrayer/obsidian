@@ -27,16 +27,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a83b164154554870",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md"
+              }
             }
           }
         ],
@@ -154,34 +151,34 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f1ca302e9a427099",
+  "active": "985ecfedbfe85f4f",
   "lastOpenFiles": [
-    "ALGEBRA LINEARE/Il simbolo di o-piccolo.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
-    "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange.md",
-    "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor nel calcolo dei limiti.md",
-    "ALGEBRA LINEARE/Combinazione lineare.md",
-    "ALGEBRA LINEARE/Spazio vettoriale.md",
-    "ANALISI/Calcolo differenziale/Derivata - Indice.md",
-    "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
+    "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
+    "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
     "ANALISI/Calcolo differenziale/Approssimazione con polinomi di grado n.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+    "ANALISI/Calcolo differenziale/Significato geometrico delle derivate (WIP).md",
+    "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md",
+    "ANALISI/Calcolo differenziale/Criterio di derivabilità.md",
+    "ANALISI/Calcolo differenziale/Teorema di De L'Hospital.md",
+    "ANALISI/Calcolo differenziale/Teorema di Cauchy.md",
+    "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
+    "ANALISI/Calcolo differenziale/Teorema di Rolle.md",
     "ANALISI/Calcolo differenziale/Punti critici.md",
-    "ANALISI/Calcolo differenziale/Definizione di Derivata.md",
+    "ANALISI/Calcolo differenziale/Teorema di Fermat.md",
+    "ANALISI/Calcolo differenziale/Massimi e minimi relativi.md",
     "ANALISI/Calcolo differenziale/Regole di derivazione.md",
     "ANALISI/Calcolo differenziale/Derivabilità implica continuità.md",
-    "ANALISI/Calcolo differenziale/Massimi e minimi relativi.md",
-    "ANALISI/Calcolo differenziale/Teorema di Cauchy.md",
+    "ANALISI/Calcolo differenziale/Definizione di Derivata.md",
+    "ANALISI/Calcolo differenziale/Derivata - Indice.md",
+    "ALGEBRA LINEARE/Il simbolo di o-piccolo.md",
+    "ALGEBRA LINEARE/Combinazione lineare.md",
+    "ALGEBRA LINEARE/Spazio vettoriale.md",
     "ALGEBRA LINEARE/Funzioni lineari.md",
     "ALGEBRA LINEARE/Sottospazio.md",
-    "ALGEBRA LINEARE/Generatori.md",
-    "ALGEBRA LINEARE/Dipendenza e indipendenza lineare.md",
-    "ALGEBRA LINEARE/Gruppi e campi.md",
-    "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
-    "ALGEBRA LINEARE/Nucleo.md",
-    "CELLI.md",
     "Untitled.canvas",
     "ALGEBRA LINEARE",
     "ANALISI",
