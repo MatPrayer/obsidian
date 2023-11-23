@@ -9,6 +9,7 @@ Sottospazio
 Spazio
 Soluzione
 Sviluppi
+Sviluppo
 che
 continua
 continue
@@ -60,6 +61,7 @@ centro
 centrato
 convergenza
 compreso
+coseno
 sia
 sono
 se
@@ -110,6 +112,8 @@ sappiamo
 significato
 stima
 sull
+sviluppi
+seno
 derivabile
 derivabili
 detto
@@ -220,6 +224,7 @@ lbrace
 linearmente
 lo
 lineari
+logaritmica
 funzioni
 funzione
 finito
@@ -256,6 +261,7 @@ versori
 volume
 vettoriali
 velocemente
+valgono
 assoluto
 abbiamo
 ad
@@ -362,6 +368,7 @@ ennuple
 esima
 endomorfismo
 errore
+esponenziale
 Diciamo
 Derivata
 Data
@@ -396,6 +403,7 @@ nullo
 nella
 nucleo
 nell
+naturale
 modi
 minimo
 massimo
@@ -435,6 +443,7 @@ br
 base
 biunivoca
 buona
+binomio
 Funzione
 Fermat
 Formula
@@ -481,6 +490,7 @@ grado
 generato
 geometrici
 geometria
+gli
 Il
 Indicato
 Infatti
