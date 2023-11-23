@@ -6,4 +6,5 @@ $$f(x)=\sum_{k=0}^n\frac{f^{(k)}(x_0)}{k!}(x-x_0)+\color{#00BDFF}\frac{f^{(n+1)}
 >Il punto $\xi$ dipende da $x,x_0$ e $n$
 
 >Per $n=0$ otteniamo che 
->$$f(x)=f$$
+>$$f(x)=f(x_0)+f'(\xi)(x-x_{0})$$
+>per un punto $\xi$ compreso tra $x_{0}$ ed $x$, cioè il [[Teorema di Lagrange]]

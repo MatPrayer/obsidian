@@ -1,7 +1,7 @@
 ---
 ~
 ---
-Sia $f:[a,b]\to\R$ continua su $[a,b]$ e derivabile su $(a,b)$.
+Sia $f:[a,b]\to\Re$ continua su $[a,b]$ e derivabile su $(a,b)$.
 Allora esiste $c\in(a,b)$ tale che $f'(c)=\frac{f(b)-f(a)}{b-a}$
 
 ### Caratterizzazione delle funzioni monotòne su intervalli
