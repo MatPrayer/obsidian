@@ -27,9 +27,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a83b164154554870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Il simbolo di o-piccolo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+                "file": "Il simbolo di o-piccolo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+                "file": "Il simbolo di o-piccolo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor.md"
+                "file": "Il simbolo di o-piccolo.md"
               }
             }
           }
@@ -152,14 +165,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ac24f715d3dfe756",
+  "active": "a83b164154554870",
   "lastOpenFiles": [
+    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+    "Il simbolo di o-piccolo.md",
     "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange.md",
     "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor nel calcolo dei limiti.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
     "ALGEBRA LINEARE/Combinazione lineare.md",
     "ALGEBRA LINEARE/Spazio vettoriale.md",
     "ANALISI/Calcolo differenziale/Derivata - Indice.md",
@@ -180,7 +194,6 @@
     "ALGEBRA LINEARE/Nucleo.md",
     "CELLI.md",
     "Untitled.canvas",
-    "2023-11-21.md",
     "ALGEBRA LINEARE",
     "ANALISI",
     "Calcolo differenziale/Teoremi",
