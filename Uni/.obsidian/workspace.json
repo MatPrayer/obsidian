@@ -8,61 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2940904d7c5c5f38",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "78662842e87ea58c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec001d1ce8c981df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eeae081dae6d0302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d42d9e2d15526c60",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "fb8c83ae48baa1ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -120,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md"
+              }
             }
           }
         ],
@@ -180,12 +152,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2940904d7c5c5f38",
+  "active": "fb8c83ae48baa1ed",
   "lastOpenFiles": [
+    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
     "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
     "ANALISI/Calcolo differenziale/Derivata - Indice.md",
     "ANALISI/Calcolo differenziale/Approssimazione con polinomi di grado n.md",
     "ANALISI/Calcolo differenziale/Punti critici.md",
