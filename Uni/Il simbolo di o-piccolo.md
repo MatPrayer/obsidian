@@ -13,4 +13,5 @@ $$g(x)=o(f(x))\quad\text{ per }x\to x_{0}\iff \lim_{ x \to x_{0} }\frac{g(x)}{f(
 ## Algebra degli $o$ piccoli
 Per $x\to x_{0}$ vale che:
 - $o(1)+o(1)=o(1)$
-- $o(1)\cdot$
+- $o(1)\cdot o(1)=o(1)$
+- $l\cdot o(1)=o(1)$ (se $l\in\Re$)
