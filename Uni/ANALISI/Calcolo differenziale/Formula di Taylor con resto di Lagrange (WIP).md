@@ -1,4 +1,9 @@
 ## Teorema della [[Formula di Taylor |formula di Taylor]] con resto di Lagrange
 
-Sia $f:(a,b)\to\Re,\quad x_0\in(a,b), f$ derivabile $n+1$ volte in $(a,b)$.
-Allora $\forall x\in(a,b), x\ne x_0$,  
+Sia $f:(a,b)\to\Re,\quad x_0\in(a,b),\quad f$ derivabile $n+1$ volte in $(a,b)$.
+Allora $\forall x\in(a,b), x\ne x_0$,  esiste un punto $\xi$ compreso tra $x_0$ ed $x$ tale che:
+$$f(x)=\sum_{k=0}^n\frac{f^{(k)}(x_0)}{k!}(x-x_0)+\color{#00BDFF}\frac{f^{(n+1)}(\xi)}{(n+1)!}(x-x_0)^{n+1}$$
+>Il punto $\xi$ dipende da $x,x_0$ e $n$
+
+>Per $n=0$ otteniamo che 
+>$$f(x)=f$$

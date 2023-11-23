@@ -58,6 +58,7 @@ commette
 centro
 centrato
 convergenza
+compreso
 sia
 sono
 se
