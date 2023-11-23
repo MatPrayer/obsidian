@@ -12,6 +12,17 @@ Dalla definizione precedente segue che:
 $$g(x)=o(f(x))\quad\text{ per }x\to x_{0}\iff \lim_{ x \to x_{0} }\frac{g(x)}{f(x)}=0$$
 ## Algebra degli $o$ piccoli
 Per $x\to x_{0}$ vale che:
+
 - $o(1)+o(1)=o(1)$
 - $o(1)\cdot o(1)=o(1)$
 - $l\cdot o(1)=o(1)$ (se $l\in\Re$)
+
+- **Somma**
+	- In una somma di $o$-piccoli di $x$ per $x\to x_{0}$ si tiene solo il termine con potenza più bassa:
+		- $o(x)+o(x)=o(x)$
+		- $o(x)+o(x^2)+o(x^5)=o(x)$
+
+- **Altre operazioni**
+- $o(c\cdot x^\alpha)=o(x^\alpha)$
+- $x^\alpha\cdot o(x^\beta)=o(x^{\alpha+\beta})$
+- $(o(x^\alpha))^\beta=o(x^{\alpha\beta})$

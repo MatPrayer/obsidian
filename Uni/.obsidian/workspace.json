@@ -32,17 +32,11 @@
             "id": "a83b164154554870",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Il simbolo di o-piccolo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "o-pic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Il simbolo di o-piccolo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Il simbolo di o-piccolo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Il simbolo di o-piccolo.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -165,10 +154,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a83b164154554870",
+  "active": "f1ca302e9a427099",
   "lastOpenFiles": [
+    "ALGEBRA LINEARE/Il simbolo di o-piccolo.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor.md",
-    "Il simbolo di o-piccolo.md",
     "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange.md",
