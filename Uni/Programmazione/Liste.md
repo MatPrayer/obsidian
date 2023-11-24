@@ -8,6 +8,11 @@ Inserimento dati in lista:
 - In posizione ordinata
 - In posizione generica
 
+Cancellazione dati in lista:
+- In testa
+- In coda
+- In posizione ordinata
+
 ````
 typedef struct Tdato{
 	//Dati
