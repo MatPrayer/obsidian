@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROGRAMMAZIONE/Liste.md",
+                "file": "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROGRAMMAZIONE/Liste.md",
+                "file": "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROGRAMMAZIONE/Liste.md",
+                "file": "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROGRAMMAZIONE/Liste.md"
+                "file": "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md"
               }
             }
           }
@@ -153,12 +153,12 @@
   },
   "active": "34636a58e605b5b6",
   "lastOpenFiles": [
+    "ANALISI/Calcolo differenziale/Formula di Taylor nel calcolo dei limiti.md",
     "PROGRAMMAZIONE/Liste.md",
     "PROGRAMMAZIONE",
     "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor nel calcolo dei limiti.md",
     "ANALISI/Calcolo differenziale/Funzione infinitesima.md",
     "ANALISI/Calcolo differenziale/Il simbolo di o-piccolo.md",
     "ANALISI/Calcolo differenziale/Massimi e minimi relativi.md",

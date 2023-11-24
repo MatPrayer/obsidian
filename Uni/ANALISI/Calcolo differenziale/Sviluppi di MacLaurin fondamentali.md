@@ -6,7 +6,7 @@ Per $x\to 0$ valgono gli sviluppi delle funzioni elementari:
 $$e^x=\sum_{k=0}^n \frac{x^k}{k!}+o(x^n)$$
 - **Funzione logaritmica naturale**
 $$\log(1+x)=\sum_{k=1}^n\frac{(-1)^{k-1}}{k}x^k+o(x^n)$$
-- **Funzione seno**
+- **Funzione seno** 
 $$\sin(x)=\sum_{k=0}^{n}\frac{(-1)^k}{(2k+1)!}x^{2k+1}+o(x^{2n+2})$$
 - **Funzione coseno**
 $$\cos(x)=\sum_{k=0}^n\frac{(-1)^k}{(2k)!}x^{2k}+o(x^{2n+1})$$
@@ -14,3 +14,7 @@ $$\cos(x)=\sum_{k=0}^n\frac{(-1)^k}{(2k)!}x^{2k}+o(x^{2n+1})$$
 $$\arctan(x)=\sum_{k=0}^n\frac{(-1)^k}{2k+1}x^{2k+1}+o(x^{2n+1})$$
 - **Sviluppo del binomio**
 $$(1+x)^\alpha=\sum_{k=0}^{n}\binom{\alpha}{k}x^k+o(x^n)$$
+- **Funzione seno iperbolico**
+$$\sinh(x)=\sum_{k=0}^n\frac{(x^{2k})}{(2k)!}+o(x^{2n+1})$$
+- **Funzione coseno iperbolico**
+$$\cosh(x)=\sum_{k=0}^{n}\frac{x^{2k+1}}{(2k+1)!}+o(x^{2n+2})$$
