@@ -23,3 +23,13 @@ typedef struct Tnodo{
 	Tnodo(Tdato d, Tnodo* n){dato = d; next = n;}
 }
 ````
+
+### Inserimento di un elemento
+Per inserire un Nodo *t* in una lista concatenata nella posizione successiva a quella occupata da un dato Nodo x:
+
+````
+void insert_node(Nodo* x, Nodo* t){
+	t->next = x->next;
+	x->next = t;
+}
+````
