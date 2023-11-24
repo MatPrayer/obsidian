@@ -32,6 +32,7 @@ typedef struct Tnodo{
 ````
 
 ### Inserimento di un elemento
+##### In posizione specifica
 Per inserire un Nodo *t* in una lista concatenata nella posizione successiva a quella occupata da un dato Nodo x:
 
 ````
@@ -40,3 +41,12 @@ void insert_node(Nodo* x, Nodo* t){
 	x->next = t;
 }
 ````
+
+##### In coda
+è necessario scorrere tutta la lista.
+
+### Casi limite
+- Lista vuota
+- Lista di un solo elemento
+- Lista piena (se la lista ha un massimo di elementi)
+

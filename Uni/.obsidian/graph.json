@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"ALGEBRA LINEARE\"  ",
@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 7749874
       }
+    },
+    {
+      "query": "path:PROGRAMMAZIONE  ",
+      "color": {
+        "a": 1,
+        "rgb": 1175164
+      }
     }
   ],
   "collapse-display": true,
@@ -27,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.407389322916667,
-  "repelStrength": 9.25618489583333,
-  "linkStrength": 0.505533854166667,
-  "linkDistance": 269,
-  "scale": 1.4464629524823958,
+  "collapse-forces": false,
+  "centerStrength": 0.394002278645833,
+  "repelStrength": 7.53011067708333,
+  "linkStrength": 0.471028645833333,
+  "linkDistance": 223,
+  "scale": 0.9575380456025179,
   "close": true
 }

@@ -16,25 +16,12 @@
             }
           },
           {
-            "id": "ffb1ee077f6c3903",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "34636a58e605b5b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmazione/Liste.md",
+                "file": "PROGRAMMAZIONE/Liste.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,7 +29,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmazione/Liste.md",
+                "file": "PROGRAMMAZIONE/Liste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmazione/Liste.md",
+                "file": "PROGRAMMAZIONE/Liste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmazione/Liste.md"
+                "file": "PROGRAMMAZIONE/Liste.md"
               }
             }
           }
@@ -166,9 +153,9 @@
   },
   "active": "34636a58e605b5b6",
   "lastOpenFiles": [
-    "Programmazione",
+    "PROGRAMMAZIONE/Liste.md",
+    "PROGRAMMAZIONE",
     "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
-    "Programmazione/Liste.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor nel calcolo dei limiti.md",

@@ -65,6 +65,11 @@ convergenza
 compreso
 coseno
 condizione
+concatenate
+concatenata
+contenente
+convenzione
+coda
 sia
 sono
 se
@@ -118,6 +123,10 @@ sull
 sviluppi
 seno
 sostituzioni
+semplicemente
+specifica
+successiva
+scorrere
 derivabile
 derivabili
 detto
@@ -162,6 +171,7 @@ dello
 dai
 dove
 dipende
+dati
 in
 il
 indicato
@@ -192,6 +202,9 @@ informazione
 indeterminata
 indicare
 infinitesima
+inserito
+iniziale
+inserire
 Allora
 Algebra
 Associativa
@@ -203,6 +216,8 @@ Anche
 Altre
 NOTA
 Non
+NULL
+Nodo
 BENE
 Basi
 tutte
@@ -221,6 +236,8 @@ tende
 tratta
 tiene
 termine
+testa
+tutta
 le
 limite
 limiti
@@ -236,6 +253,8 @@ linearmente
 lo
 lineari
 logaritmica
+lista
+link
 funzioni
 funzione
 finito
@@ -246,6 +265,7 @@ fondamentali
 formato
 formula
 formano
+finale
 Esempi
 Esempio
 Esiste
@@ -273,6 +293,8 @@ volume
 vettoriali
 velocemente
 valgono
+variabile
+vuota
 assoluto
 abbiamo
 ad
@@ -304,6 +326,7 @@ approssimazione
 analoga
 approssimando
 alleggerire
+altro
 punti
 punto
 principale
@@ -336,6 +359,9 @@ possa
 presentati
 precedente
 piccoli
+puntatore
+posizione
+piena
 Consideriamo
 Criterio
 Caratterizzazione
@@ -350,6 +376,8 @@ Cramer
 Corollario
 Calcolo
 Conoscendo
+Cancellazione
+Casi
 una
 un
 unico
@@ -424,6 +452,9 @@ nucleo
 nell
 naturale
 notazione
+nodo
+next
+necessario
 modi
 minimo
 massimo
@@ -460,6 +491,10 @@ ortogonale
 ottiene
 otteniamo
 opportune
+oggetti
+oggetto
+ordinata
+occupata
 br
 base
 biunivoca
@@ -523,12 +558,15 @@ In
 Indicando
 Invertibilit
 Indichiamo
+Inserimento
 Linearit
 La
 Leibnitz
 Lagrange
 Le
 Laplace
+Liste
+Lista
 Regola
 Regole
 Rolle
@@ -543,6 +581,7 @@ quadrato
 quando
 quantitativa
 quanto
+quella
 WIP
 Punti
 Prodotto
