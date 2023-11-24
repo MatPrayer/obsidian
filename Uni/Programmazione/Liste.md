@@ -1,5 +1,7 @@
 ## Liste semplicemente concatenate
 Una ***lista concatenata*** è un insieme di oggetti, dove ogni oggetto è inserito in un nodo contenente anche un **link** ad un altro nodo.
+
+Il nodo iniziale è indicato da una variabile puntatore.
 Per convenzione, il nodo finale ha *next* a NULL.
 
 Inserimento dati in lista:
