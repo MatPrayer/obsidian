@@ -7,23 +7,23 @@
 
 * * *
 #### Invertibilità di una matrice
-Sia $A\in M_n(\Reals)$, le seguenti condizioni sono equivalenti: 
+Sia $A\in M_n(\Re)$, le seguenti condizioni sono equivalenti: 
 - $det(A)\ne0$
 - $rg(A)=n$
 - $A$ è invertibile
 > ***Corollario***
-> Un insieme di $n$ ennuple $\lbrace \underline{n_1},...,\underline{n_n}\rbrace \in\Reals^n$ formano una **base** di $\Reals^n$ se e solo se $det([ \underline{n_1}|...|\underline{n_n}]\ne0$
+> Un insieme di $n$ ennuple $\lbrace \underline{n_1},...,\underline{n_n}\rbrace \in\Re^n$ formano una **base** di $\Re^n$ se e solo se $det([ \underline{n_1}|...|\underline{n_n}]\ne0$
 
 ***
 #### Calcolo di matrici inverse
 
 >**Definizione di cofattore**
->Data $A \in M_n(\Reals), A=[a_{ij}]$
+>Data $A \in M_n(\Re), A=[a_{ij}]$
 >Il ***cofattore*** dell'elemento $a_{ij}$ è lo scalare
 >$$a'_{ij}=(-1)^{i+j}det(A_{ij})$$
->La ***matrice dei cofattori*** di $A$ è $A'=[a'_{ij}]\in M_n(\reals)$
+>La ***matrice dei cofattori*** di $A$ è $A'=[a'_{ij}]\in M_n(\Re)$
 
-Se $A\in M_n(\reals)$ è invertibile:
+Se $A\in M_n(\Re)$ è invertibile:
 $$A^{-1}=\frac{1}{det(A)}(A')^T$$
 ***
 #### Soluzione di sistemi lineari

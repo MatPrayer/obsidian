@@ -125,6 +125,115 @@
             }
           ],
           "title": "ANALISI"
+        },
+        {
+          "type": "group",
+          "ctime": 1701021612735,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Gruppi e campi.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Spazio vettoriale.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Sottospazio.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Combinazione lineare.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Generatori.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Dipendenza e indipendenza lineare.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Basi.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Determinante.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Teorema di Laplace.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Teorema di Binet.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Teorema di Cramer.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Determinante e operazioni elementari.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Applicazioni del determinante.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Prodotto vettoriale.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Funzioni lineari.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Nucleo.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1701021612735,
+              "path": "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "ALGEBRA LINEARE"
         }
       ],
       "title": "sortspec"
