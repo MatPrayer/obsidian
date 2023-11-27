@@ -19,8 +19,13 @@
             "id": "d909dd7c6055b362",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ALGEBRA LINEARE/Teorema nullità + rango.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -66,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -82,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ALGEBRA LINEARE/Teorema nullità + rango.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ALGEBRA LINEARE/Teorema nullità + rango.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ALGEBRA LINEARE/Teorema nullità + rango.md"
+              }
             }
           }
         ],
@@ -144,33 +154,37 @@
   },
   "active": "d909dd7c6055b362",
   "lastOpenFiles": [
+    "ALGEBRA LINEARE/Teorema nullità + rango.md",
+    "ANALISI/Integrali/Somme superiori e inferiori.md",
+    "ANALISI/Integrali/Allegati/Pasted image 20231127182349.png",
+    "ANALISI/Integrali/Proprietà dell'integrale.md",
+    "ANALISI/Integrali/Allegati",
+    "ANALISI/Integrali/Criteri di integrabilità.md",
+    "ANALISI/Integrali/Integrale di Reimann.md",
+    "ANALISI/Integrali/Raffinamento.md",
+    "ANALISI/Integrali/Allegati/Pasted image 20231127182308.png",
     "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
-    "ANALISI/Calcolo differenziale/Coefficiente binomiale.md",
-    "ALGEBRA LINEARE/Il simbolo di o-piccolo.md",
+    "ANALISI/Integrali",
     "ANALISI/Calcolo differenziale/Formula di Taylor nel calcolo dei limiti.md",
-    "PROGRAMMAZIONE/Liste.md",
-    "PROGRAMMAZIONE",
+    "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange.md",
+    "ALGEBRA LINEARE/Basi.md",
+    "ALGEBRA LINEARE/Funzioni lineari.md",
+    "ALGEBRA LINEARE/Prodotto vettoriale.md",
+    "ALGEBRA LINEARE/Applicazioni del determinante.md",
+    "ALGEBRA LINEARE/Determinante e operazioni elementari.md",
+    "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
+    "ALGEBRA LINEARE/Nucleo.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+    "ANALISI/Calcolo differenziale/Coefficiente binomiale.md",
+    "ALGEBRA LINEARE/Il simbolo di o-piccolo.md",
+    "PROGRAMMAZIONE/Liste.md",
+    "PROGRAMMAZIONE",
     "ANALISI/Calcolo differenziale/Funzione infinitesima.md",
     "ANALISI/Calcolo differenziale/Il simbolo di o-piccolo.md",
     "ANALISI/Calcolo differenziale/Massimi e minimi relativi.md",
     "ANALISI/Calcolo differenziale/Teorema di Fermat.md",
-    "ANALISI/Calcolo differenziale/Punti critici.md",
-    "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
-    "ANALISI/Calcolo differenziale/Teorema di De L'Hospital.md",
-    "ANALISI/Calcolo differenziale/Criterio di derivabilità.md",
-    "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md",
-    "ANALISI/Calcolo differenziale/Approssimazione con polinomi di grado n.md",
-    "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
-    "ALGEBRA LINEARE/Gruppi e campi.md",
-    "ALGEBRA LINEARE/Spazio vettoriale.md",
-    "ALGEBRA LINEARE/Combinazione lineare.md",
-    "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
-    "ANALISI/Calcolo differenziale/Significato geometrico delle derivate (WIP).md",
-    "ANALISI/Calcolo differenziale/Teorema di Cauchy.md",
-    "ANALISI/Calcolo differenziale/Teorema di Rolle.md",
     "Untitled.canvas",
     "ALGEBRA LINEARE",
     "ANALISI",

@@ -1,17 +1,17 @@
 {
   "main": {
-    "id": "e7083fb6e627e6f2",
+    "id": "8d6fe5f8bf960db3",
     "type": "split",
     "children": [
       {
-        "id": "67d1cb8af78ec579",
+        "id": "9152cf08769088a4",
         "type": "tabs",
         "children": [
           {
-            "id": "dedc97092453b6ff",
+            "id": "bbdef0c456668ad4",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -21,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "380af9d6a9853847",
+    "id": "1adaa22017dc3d04",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f1cfc44f3f691189",
+        "id": "7b783cadbfa65744",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +35,7 @@
         }
       },
       {
-        "id": "377f7e7e1252c675",
+        "id": "166f91adfe63076e",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +50,7 @@
         }
       },
       {
-        "id": "c3d6010708cd0e39",
+        "id": "b70950b73d08e92b",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,21 +61,22 @@
         }
       },
       {
-        "id": "5961bfe9680d7791",
+        "id": "a173333c99ed0bb3",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
-    "id": "1519ea5565e11d08",
+    "id": "a9ad800341f21b30",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "a659b0163652af4d",
+        "id": "33abf52cd3515e33",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -91,7 +92,7 @@
         }
       },
       {
-        "id": "0a30c5e44707ef73",
+        "id": "e64814e1abd83d31",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -102,7 +103,7 @@
         }
       },
       {
-        "id": "8ad70c3357842dc0",
+        "id": "03845ed7e62c2518",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -114,38 +115,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "remotely-save:Remotely Save": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "dedc97092453b6ff",
+  "active": "bbdef0c456668ad4",
   "lastOpenFiles": [
-    "ANALISI/Funzioni continue/Funzioni continue.md",
-    "ANALISI/Funzioni continue",
-    "ALGEBRA LINEARE/Teorema di Laplace.md",
-    "ALGEBRA LINEARE/Teorema di Cramer.md",
-    "ANALISI/Calcolo differenziale",
-    "ANALISI",
-    "ALGEBRA LINEARE/Teorema di Binet.md",
-    "ALGEBRA LINEARE/Spazio vettoriale.md",
-    "ALGEBRA LINEARE/Sottospazio.md",
-    "ALGEBRA LINEARE/Prodotto vettoriale.md",
+    "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
+    "ANALISI/Calcolo differenziale/Coefficiente binomiale.md",
+    "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
+    "ANALISI/Calcolo differenziale/Il simbolo di o-piccolo.md",
+    "ANALISI/Calcolo differenziale/Funzione infinitesima.md",
+    "PROGRAMMAZIONE/Liste.md",
+    "PROGRAMMAZIONE",
+    "ANALISI/Calcolo differenziale/Formula di Taylor nel calcolo dei limiti.md",
+    "ALGEBRA LINEARE/Il simbolo di o-piccolo.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange (WIP).md",
     "ALGEBRA LINEARE/Nucleo.md",
-    "ALGEBRA LINEARE/Gruppi e campi.md",
-    "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
-    "ALGEBRA LINEARE/Generatori.md",
-    "ALGEBRA LINEARE/Applicazioni del determinante.md",
-    "ALGEBRA LINEARE/Funzioni lineari.md",
-    "ALGEBRA LINEARE/Dipendenza e indipendenza lineare.md",
-    "ALGEBRA LINEARE/Determinante.md",
-    "ALGEBRA LINEARE/Determinante e operazioni elementari.md",
-    "ALGEBRA LINEARE/Combinazione lineare.md",
-    "ALGEBRA LINEARE/Basi.md",
-    "ALGEBRA LINEARE"
+    "ANALISI/Calcolo differenziale/Approssimazione con polinomi di grado n.md",
+    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md"
   ]
 }
