@@ -1,5 +1,5 @@
 ### Teorema di Binet
-Se $A \in M_n (\Reals)$ allora:
+Se $A \in M_n (\Re)$ allora:
 $$det(AB)=det(A)\cdot det(B)$$
 
 In particolare, se $A$ è una matrice invertibile:

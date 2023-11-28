@@ -1,6 +1,9 @@
 [
   "obsidian-plugin-toc",
-  "obsidian-latex-suite",
   "obsidian-git",
-  "remotely-save"
+  "remotely-save",
+  "custom-sort",
+  "link-with-alias",
+  "obsidian-completr",
+  "obsidian-latex-suite"
 ]

@@ -1,12 +1,12 @@
 ## Determinante [🔗](https://www.andreaminini.org/matematica/algebra-lineare/determinante-matrice)
 
 >***Premessa:***
->Data una matrice quadrata $A\in M_n(\Reals)$ e due indici $j,k \in \lbrace 1,...,n \rbrace$ si indica con $A_{jk}$ la matrice di ordine $n-1$ ottenuta da >$A$ cancellando la riga $j$ e la colonna $k$.
+>Data una matrice quadrata $A\in M_n(\Re)$ e due indici $j,k \in \lbrace 1,...,n \rbrace$ si indica con $A_{jk}$ la matrice di ordine $n-1$ ottenuta da >$A$ cancellando la riga $j$ e la colonna $k$.
 >
 >Esempio:
 >$$A=\begin{bmatrix}1&2&3\\4&5&6\\7&8&9\end{bmatrix} \qquad A_{12} = \begin{bmatrix}4&6\\7&9\end{bmatrix}$$
 
-Il ***determinante*** è una funzione che associa ad una matrice quadrata $A=[a_{ij}] \in M_n(\Reals)$ un numero reale.
+Il ***determinante*** è una funzione che associa ad una matrice quadrata $A=[a_{ij}] \in M_n(\Re)$ un numero reale.
 - Se $n = 1$, $det(A) = a_{11}$
 - Se $n \ge 2$,
 $$det(A)=\sum_{i=1}^n (-1)^{i+1}a_{i1}det(A_{i1})$$

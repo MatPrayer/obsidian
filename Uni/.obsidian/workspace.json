@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -152,8 +151,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d909dd7c6055b362",
+  "active": "f1ca302e9a427099",
   "lastOpenFiles": [
+    "ALGEBRA LINEARE/Matrici rappresentative.md",
     "ALGEBRA LINEARE/Teorema nullità + rango.md",
     "ANALISI/Integrali/Somme superiori e inferiori.md",
     "ANALISI/Integrali/Allegati/Pasted image 20231127182349.png",
@@ -184,7 +184,6 @@
     "ANALISI/Calcolo differenziale/Funzione infinitesima.md",
     "ANALISI/Calcolo differenziale/Il simbolo di o-piccolo.md",
     "ANALISI/Calcolo differenziale/Massimi e minimi relativi.md",
-    "ANALISI/Calcolo differenziale/Teorema di Fermat.md",
     "Untitled.canvas",
     "ALGEBRA LINEARE",
     "ANALISI",

@@ -3,9 +3,9 @@
 In uno [spazio vettoriale](Spazio%20vettoriale.md) $V$ un insieme di vettori $B=\lbrace v_1,...,v_2\rbrace$ [generatori](generatori) di $V$ è una ***base*** di $V$ se è composto da vettori [linearmente indipendenti](Dipendenza%20e%20indipendenza%20lineare#indipendenza).
 
 >Esempi
->1. $V=\Reals^n, \quad B=\lbrace1,0,...,0),(0,1,...,0),(0,0,...,1)\rbrace$ è la **base canonica** di $\Reals^n$
->2. $M_2(\Reals), \quad B=\Bigg\lbrace\begin{bmatrix}1&&0\\0&&0\end{bmatrix},\begin{bmatrix}0&&1\\0&&0\end{bmatrix},\begin{bmatrix}0&&0\\1&&0\end{bmatrix},\begin{bmatrix}0&&0\\0&&1\end{bmatrix}\Bigg\rbrace$
->3. $\Reals_d[x], \quad B=\lbrace 1,x,x^2,...,x^d\rbrace$ *(spazio dei polinomi in $x$ di grado al più $d$ a coefficienti reali)*
+>1. $V=\Re^n, \quad B=\lbrace1,0,...,0),(0,1,...,0),(0,0,...,1)\rbrace$ è la **base canonica** di $\Re^n$
+>2. $M_2(\Re), \quad B=\Bigg\lbrace\begin{bmatrix}1&&0\\0&&0\end{bmatrix},\begin{bmatrix}0&&1\\0&&0\end{bmatrix},\begin{bmatrix}0&&0\\1&&0\end{bmatrix},\begin{bmatrix}0&&0\\0&&1\end{bmatrix}\Bigg\rbrace$
+>3. $\Re_d[x], \quad B=\lbrace 1,x,x^2,...,x^d\rbrace$ *(spazio dei polinomi in $x$ di grado al più $d$ a coefficienti reali)*
 
 <br>
 
