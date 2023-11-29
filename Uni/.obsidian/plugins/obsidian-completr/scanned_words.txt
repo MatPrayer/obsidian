@@ -219,6 +219,8 @@ iniziale
 inserire
 iperbolico
 indipendente
+integrabile
+integrale
 Allora
 Algebra
 Associativa
@@ -271,6 +273,7 @@ logaritmica
 lista
 link
 lezione
+limitata
 funzioni
 funzione
 finito
@@ -626,6 +629,7 @@ Proposizione
 Possiamo
 Peano
 Problema
+Poniamo
 Hospital
 Gruppo
 Gruppi

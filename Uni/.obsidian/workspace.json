@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "d909dd7c6055b362",
+            "id": "729b24eadc799746",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md",
+                "file": "ANALISI/Integrali/Teorema fondamentale del calcolo integrale.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md",
+                "file": "ANALISI/Integrali/Teorema fondamentale del calcolo integrale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md",
+                "file": "ANALISI/Integrali/Teorema fondamentale del calcolo integrale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md"
+                "file": "ANALISI/Integrali/Teorema fondamentale del calcolo integrale.md"
               }
             }
           }
@@ -152,10 +151,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d909dd7c6055b362",
+  "active": "729b24eadc799746",
   "lastOpenFiles": [
     "ANALISI/Integrali/La funzione integrale.md",
+    "ANALISI/Integrali/Teorema fondamentale del calcolo integrale.md",
     "ANALISI/Integrali/Teorema della media.md",
+    "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md",
     "ALGEBRA LINEARE/Matrici rappresentative.md",
     "ALGEBRA LINEARE/Cambiamenti di base.md",
     "ALGEBRA LINEARE/Teorema nullità + rango.md",
@@ -183,8 +184,6 @@
     "ALGEBRA LINEARE/Determinante e operazioni elementari.md",
     "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
     "ALGEBRA LINEARE/Nucleo.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor.md",
-    "ANALISI/Calcolo differenziale/Coefficiente binomiale.md",
     "PROGRAMMAZIONE",
     "Untitled.canvas",
     "ALGEBRA LINEARE",
