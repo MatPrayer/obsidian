@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALGEBRA LINEARE/Teorema nullità + rango.md",
+                "file": "ALGEBRA LINEARE/Matrici rappresentative.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALGEBRA LINEARE/Teorema nullità + rango.md",
+                "file": "ALGEBRA LINEARE/Matrici rappresentative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALGEBRA LINEARE/Teorema nullità + rango.md",
+                "file": "ALGEBRA LINEARE/Matrici rappresentative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALGEBRA LINEARE/Teorema nullità + rango.md"
+                "file": "ALGEBRA LINEARE/Matrici rappresentative.md"
               }
             }
           }
@@ -151,14 +151,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f1ca302e9a427099",
+  "active": "d909dd7c6055b362",
   "lastOpenFiles": [
+    "ALGEBRA LINEARE/Cambiamenti di base.md",
+    "ALGEBRA LINEARE/Teorema nullità + rango.md",
     "ALGEBRA LINEARE/Coordinate.md",
     "ALGEBRA LINEARE/Untitled.md",
     "Pasted image 20231128181753.png",
-    "ALGEBRA LINEARE/Cambiamenti di base.md",
     "ALGEBRA LINEARE/Matrici rappresentative.md",
-    "ALGEBRA LINEARE/Teorema nullità + rango.md",
     "ANALISI/Integrali/Somme superiori e inferiori.md",
     "ANALISI/Integrali/Allegati/Pasted image 20231127182349.png",
     "ANALISI/Integrali/Proprietà dell'integrale.md",

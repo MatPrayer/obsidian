@@ -74,6 +74,7 @@ coda
 colonne
 coordinate
 corrisponde
+cambiamento
 sia
 sono
 se
