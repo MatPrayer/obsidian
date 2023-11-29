@@ -184,6 +184,8 @@ dipende
 dati
 dire
 dimensione
+diagramma
+descrive
 in
 il
 indicato
@@ -219,8 +221,6 @@ iniziale
 inserire
 iperbolico
 indipendente
-integrabile
-integrale
 Allora
 Algebra
 Associativa
@@ -234,6 +234,7 @@ NOTA
 Non
 NULL
 Nodo
+Nota
 BENE
 Basi
 Biunivoca
@@ -255,6 +256,7 @@ tiene
 termine
 testa
 tutta
+transizione
 le
 limite
 limiti
@@ -273,7 +275,6 @@ logaritmica
 lista
 link
 lezione
-limitata
 funzioni
 funzione
 finito
@@ -346,6 +347,7 @@ analoga
 approssimando
 alleggerire
 altro
+assieme
 punti
 punto
 principale
@@ -531,6 +533,7 @@ bassa
 boh
 basta
 basi
+bene
 Funzione
 Fermat
 Formula
@@ -573,6 +576,7 @@ Massimo
 Massimi
 Modulo
 MacLaurin
+Mettendo
 ha
 globale
 geometrico
@@ -629,7 +633,6 @@ Proposizione
 Possiamo
 Peano
 Problema
-Poniamo
 Hospital
 Gruppo
 Gruppi

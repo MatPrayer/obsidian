@@ -3,7 +3,7 @@ $f:V\to V'$ [funzione lineare](funzioni%20lineari).
 Il ***nucleo*** di $f$, $kef(f)$ è l'insieme dei vettori di $V$ tali che $f(v)=\underline{0}_{V'}$
 $$ker(f)=\lbrace v\in V | f(v)=\underline{0}_{V'}\rbrace\in V$$
 >**OSSERVAZIONE**
->$kef(f)\in V$ è un [*sottospazio vettoriale*](Sottospazio)
+>$ker(f)\in V$ è un [*sottospazio vettoriale*](Sottospazio)
 
 ### Proposizione
 $f:V\to V'$ funzione lineare.
