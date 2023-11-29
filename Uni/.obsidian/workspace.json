@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALGEBRA LINEARE/Matrici rappresentative.md",
+                "file": "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "C^",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALGEBRA LINEARE/Matrici rappresentative.md",
+                "file": "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALGEBRA LINEARE/Matrici rappresentative.md",
+                "file": "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALGEBRA LINEARE/Matrici rappresentative.md"
+                "file": "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md"
               }
             }
           }
@@ -153,12 +154,14 @@
   },
   "active": "d909dd7c6055b362",
   "lastOpenFiles": [
+    "ANALISI/Integrali/La funzione integrale.md",
+    "ANALISI/Integrali/Teorema della media.md",
+    "ALGEBRA LINEARE/Matrici rappresentative.md",
     "ALGEBRA LINEARE/Cambiamenti di base.md",
     "ALGEBRA LINEARE/Teorema nullità + rango.md",
     "ALGEBRA LINEARE/Coordinate.md",
     "ALGEBRA LINEARE/Untitled.md",
     "Pasted image 20231128181753.png",
-    "ALGEBRA LINEARE/Matrici rappresentative.md",
     "ANALISI/Integrali/Somme superiori e inferiori.md",
     "ANALISI/Integrali/Allegati/Pasted image 20231127182349.png",
     "ANALISI/Integrali/Proprietà dell'integrale.md",
@@ -182,8 +185,6 @@
     "ALGEBRA LINEARE/Nucleo.md",
     "ANALISI/Calcolo differenziale/Formula di Taylor.md",
     "ANALISI/Calcolo differenziale/Coefficiente binomiale.md",
-    "ALGEBRA LINEARE/Il simbolo di o-piccolo.md",
-    "PROGRAMMAZIONE/Liste.md",
     "PROGRAMMAZIONE",
     "Untitled.canvas",
     "ALGEBRA LINEARE",
