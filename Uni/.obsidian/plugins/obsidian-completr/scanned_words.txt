@@ -221,6 +221,8 @@ iniziale
 inserire
 iperbolico
 indipendente
+integrabile
+integrale
 Allora
 Algebra
 Associativa
@@ -385,6 +387,7 @@ posizione
 piena
 pivot
 preserva
+poi
 Consideriamo
 Criterio
 Caratterizzazione
