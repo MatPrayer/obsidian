@@ -75,6 +75,7 @@ colonne
 coordinate
 corrisponde
 cambiamento
+cambia
 sia
 sono
 se
@@ -137,6 +138,8 @@ soluzioni
 siano
 studiare
 semplice
+segno
+stretta
 derivabile
 derivabili
 detto
@@ -186,6 +189,7 @@ dire
 dimensione
 diagramma
 descrive
+disuguaglianza
 in
 il
 indicato
@@ -223,6 +227,8 @@ iperbolico
 indipendente
 integrabile
 integrale
+integrabili
+integrazione
 Allora
 Algebra
 Associativa
@@ -232,6 +238,7 @@ Approssimazione
 Attenzione
 Anche
 Altre
+Addittivit
 NOTA
 Non
 NULL
@@ -277,6 +284,7 @@ logaritmica
 lista
 link
 lezione
+limitata
 funzioni
 funzione
 finito
@@ -580,6 +588,7 @@ Massimi
 Modulo
 MacLaurin
 Mettendo
+Monotonia
 ha
 globale
 geometrico
@@ -636,6 +645,8 @@ Proposizione
 Possiamo
 Peano
 Problema
+Poniamo
+Positivit
 Hospital
 Gruppo
 Gruppi
@@ -646,6 +657,7 @@ Gli
 Vale
 Verso
 Versori
+Valgono
 Questa
 Questo
 Jordan

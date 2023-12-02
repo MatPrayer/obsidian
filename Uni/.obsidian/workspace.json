@@ -14,22 +14,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "729b24eadc799746",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ANALISI/Integrali/Teorema fondamentale del calcolo integrale.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Integrali/Teorema fondamentale del calcolo integrale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Integrali/Teorema fondamentale del calcolo integrale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ANALISI/Integrali/Teorema fondamentale del calcolo integrale.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,13 +133,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "729b24eadc799746",
+  "active": "d42d9e2d15526c60",
   "lastOpenFiles": [
+    "ANALISI/Integrali/TODO.md",
+    "ANALISI/Integrali/Teorema fondamentale del calcolo integrale (WIP).md",
+    "ANALISI/Integrali/Proprietà dell'integrale.md",
+    "ANALISI/Integrali/Teorema della media.md",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231128181753.png",
     "ALGEBRA LINEARE/Allegati",
     "ANALISI/Integrali/La funzione integrale.md",
-    "ANALISI/Integrali/Teorema fondamentale del calcolo integrale.md",
-    "ANALISI/Integrali/Teorema della media.md",
     "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md",
     "ALGEBRA LINEARE/Matrici rappresentative.md",
     "ALGEBRA LINEARE/Cambiamenti di base.md",
@@ -167,7 +151,6 @@
     "Pasted image 20231128181753.png",
     "ANALISI/Integrali/Somme superiori e inferiori.md",
     "ANALISI/Integrali/Allegati/Pasted image 20231127182349.png",
-    "ANALISI/Integrali/Proprietà dell'integrale.md",
     "ANALISI/Integrali/Allegati",
     "ANALISI/Integrali/Criteri di integrabilità.md",
     "ANALISI/Integrali/Integrale di Reimann.md",
