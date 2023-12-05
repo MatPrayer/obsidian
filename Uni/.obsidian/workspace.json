@@ -14,8 +14,22 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "76c0051be52de0d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ALGEBRA LINEARE/Spazi vettoriali euclidei.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -73,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ALGEBRA LINEARE/Spazi vettoriali euclidei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ALGEBRA LINEARE/Spazi vettoriali euclidei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ALGEBRA LINEARE/Spazi vettoriali euclidei.md"
+              }
             }
           }
         ],
@@ -133,8 +152,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d42d9e2d15526c60",
+  "active": "76c0051be52de0d9",
   "lastOpenFiles": [
+    "ALGEBRA LINEARE/Cambiamenti di base.md",
+    "ALGEBRA LINEARE/Spazi vettoriali euclidei.md",
+    "ALGEBRA LINEARE/Teorema nullità + rango.md",
+    "ALGEBRA LINEARE/Matrici rappresentative.md",
     "ANALISI/Integrali/TODO.md",
     "ANALISI/Integrali/Teorema fondamentale del calcolo integrale (WIP).md",
     "ANALISI/Integrali/Proprietà dell'integrale.md",
@@ -143,11 +166,7 @@
     "ALGEBRA LINEARE/Allegati",
     "ANALISI/Integrali/La funzione integrale.md",
     "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md",
-    "ALGEBRA LINEARE/Matrici rappresentative.md",
-    "ALGEBRA LINEARE/Cambiamenti di base.md",
-    "ALGEBRA LINEARE/Teorema nullità + rango.md",
     "ALGEBRA LINEARE/Coordinate.md",
-    "ALGEBRA LINEARE/Untitled.md",
     "Pasted image 20231128181753.png",
     "ANALISI/Integrali/Somme superiori e inferiori.md",
     "ANALISI/Integrali/Allegati/Pasted image 20231127182349.png",
