@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Serie numeriche/Serie geometrica.md",
+                "file": "ANALISI/Serie numeriche/Serie telescopiche (WIP).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Serie numeriche/Serie geometrica.md",
+                "file": "ANALISI/Serie numeriche/Serie telescopiche (WIP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Serie numeriche/Serie geometrica.md",
+                "file": "ANALISI/Serie numeriche/Serie telescopiche (WIP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Serie numeriche/Serie geometrica.md"
+                "file": "ANALISI/Serie numeriche/Serie telescopiche (WIP).md"
               }
             }
           }
@@ -154,8 +154,9 @@
   },
   "active": "e083b863c15bac16",
   "lastOpenFiles": [
+    "ANALISI/Serie numeriche/Serie geometriche.md",
+    "ANALISI/Serie numeriche/Serie telescopiche (WIP).md",
     "ANALISI/Serie numeriche/Serie numeriche.md",
-    "ANALISI/Serie numeriche/Serie geometrica.md",
     "ANALISI/Integrali/Calcolo degli integrali/Integrazione delle funzioni razionali (WIP).md",
     "ANALISI/Serie numeriche",
     "ANALISI/Integrali/Integrale di Reimann.md",
@@ -184,7 +185,6 @@
     "ALGEBRA LINEARE/Isometrie.md",
     "ALGEBRA LINEARE/Matrici ortogonali.md",
     "ALGEBRA LINEARE/Spazio vettoriale euclideo.md",
-    "ALGEBRA LINEARE/Teorema di Laplace.md",
     "ALGEBRA LINEARE/Allegati",
     "Pasted image 20231128181753.png",
     "ANALISI/Integrali/Allegati/Pasted image 20231127182349.png",
