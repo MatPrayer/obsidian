@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALGEBRA LINEARE/Spazi vettoriali euclidei.md",
+                "file": "ALGEBRA LINEARE/Ortogonalità.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALGEBRA LINEARE/Spazi vettoriali euclidei.md",
+                "file": "ALGEBRA LINEARE/Ortogonalità.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALGEBRA LINEARE/Spazi vettoriali euclidei.md",
+                "file": "ALGEBRA LINEARE/Ortogonalità.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALGEBRA LINEARE/Spazi vettoriali euclidei.md"
+                "file": "ALGEBRA LINEARE/Ortogonalità.md"
               }
             }
           }
@@ -154,8 +153,12 @@
   },
   "active": "76c0051be52de0d9",
   "lastOpenFiles": [
+    "ALGEBRA LINEARE/Distanza.md",
+    "ALGEBRA LINEARE/Ortogonalità.md",
+    "ALGEBRA LINEARE/Norma.md",
+    "ALGEBRA LINEARE/Spazio vettoriale euclideo.md",
+    "ALGEBRA LINEARE/Prodotto scalare.md",
     "ALGEBRA LINEARE/Cambiamenti di base.md",
-    "ALGEBRA LINEARE/Spazi vettoriali euclidei.md",
     "ALGEBRA LINEARE/Teorema nullità + rango.md",
     "ALGEBRA LINEARE/Matrici rappresentative.md",
     "ANALISI/Integrali/TODO.md",
@@ -183,10 +186,6 @@
     "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange.md",
     "ALGEBRA LINEARE/Basi.md",
     "ALGEBRA LINEARE/Funzioni lineari.md",
-    "ALGEBRA LINEARE/Prodotto vettoriale.md",
-    "ALGEBRA LINEARE/Applicazioni del determinante.md",
-    "ALGEBRA LINEARE/Determinante e operazioni elementari.md",
-    "ALGEBRA LINEARE/Immagine di una funzione lineare.md",
     "PROGRAMMAZIONE",
     "Untitled.canvas",
     "ALGEBRA LINEARE",

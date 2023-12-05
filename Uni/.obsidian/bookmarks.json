@@ -131,6 +131,12 @@
           "ctime": 1701192920546,
           "items": [
             {
+              "type": "group",
+              "ctime": 1701774514685,
+              "items": [],
+              "title": "Allegati"
+            },
+            {
               "type": "file",
               "ctime": 1701192920546,
               "path": "ALGEBRA LINEARE/Gruppi e campi.md",
@@ -258,8 +264,14 @@
             },
             {
               "type": "file",
+              "ctime": 1701774514685,
+              "path": "ALGEBRA LINEARE/Prodotto scalare.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
               "ctime": 1701192920547,
-              "path": "ALGEBRA LINEARE/Spazi vettoriali euclidei.md",
+              "path": "ALGEBRA LINEARE/Spazio vettoriale euclideo.md",
               "subpath": "#^-"
             }
           ],

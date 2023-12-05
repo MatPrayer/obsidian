@@ -451,6 +451,7 @@ endomorfismo
 errore
 esponenziale
 ennupla
+euclideo
 Diciamo
 Derivata
 Data
@@ -535,6 +536,8 @@ ordinata
 occupata
 ora
 ove
+ortogonalit
+ortogonali
 br
 base
 biunivoca
