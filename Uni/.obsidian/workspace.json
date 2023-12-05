@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "ccd3192b1a71082d",
+            "id": "e083b863c15bac16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Integrali/Calcolo degli integrali/Integrazione per sostituzione.md",
+                "file": "ANALISI/Integrali/Calcolo degli integrali/Integrazione delle funzioni razionali (WIP).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Integrali/Calcolo degli integrali/Integrazione per sostituzione.md",
+                "file": "ANALISI/Integrali/Calcolo degli integrali/Integrazione delle funzioni razionali (WIP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Integrali/Calcolo degli integrali/Integrazione per sostituzione.md",
+                "file": "ANALISI/Integrali/Calcolo degli integrali/Integrazione delle funzioni razionali (WIP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,12 +127,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Integrali/Calcolo degli integrali/Integrazione per sostituzione.md"
+                "file": "ANALISI/Integrali/Calcolo degli integrali/Integrazione delle funzioni razionali (WIP).md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,21 +151,25 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ccd3192b1a71082d",
+  "active": "f1ca302e9a427099",
   "lastOpenFiles": [
-    "ANALISI/Integrali/Calcolo degli integrali/Formula fondamentale del calcolo integrale.md",
+    "ANALISI/Serie numeriche",
+    "ANALISI/Integrali/Integrale di Reimann.md",
+    "ANALISI/Integrali/Criteri di integrabilità.md",
+    "ANALISI/Integrali/Teorema fondamentale del calcolo integrale.md",
+    "ANALISI/Integrali/Calcolo degli integrali/Integrazione per parti.md",
     "ANALISI/Integrali/Calcolo degli integrali/Integrazione per sostituzione.md",
     "ANALISI/Integrali/Calcolo degli integrali/Tabella delle primitive fondamentali.md",
-    "ANALISI/Integrali/Calcolo degli integrali",
+    "ANALISI/Integrali/Calcolo degli integrali/Formula fondamentale del calcolo integrale.md",
+    "ANALISI/Integrali/Calcolo degli integrali/Integrazione delle funzioni razionali (WIP).md",
+    "ANALISI/Integrali/Simmetrie negli integrali.md",
     "Screenshot 2023-12-05 at 17.29.28.png",
+    "ANALISI/Integrali/Calcolo degli integrali",
     "ANALISI/Integrali/Integrale indefinito.md",
     "ANALISI/Integrali/Primitive.md",
-    "ANALISI/Integrali/Teorema fondamentale del calcolo integrale.md",
     "ANALISI/Calcolo differenziale/Definizione di Derivata.md",
     "ANALISI/Calcolo differenziale/Criterio di derivabilità.md",
     "ANALISI/Integrali/La funzione integrale.md",
-    "ANALISI/Integrali/Criteri di integrabilità.md",
-    "ANALISI/Integrali/Integrale di Reimann.md",
     "ANALISI/Integrali/Teorema della media.md",
     "ANALISI/Integrali/TODO.md",
     "ALGEBRA LINEARE/Diagonalizzabilità.md",
@@ -179,10 +183,6 @@
     "ALGEBRA LINEARE/Spazio vettoriale euclideo.md",
     "ALGEBRA LINEARE/Teorema di Laplace.md",
     "ALGEBRA LINEARE/Complemento ortogonale.md",
-    "ALGEBRA LINEARE/Proiezione ortogonale.md",
-    "ALGEBRA LINEARE/Ortogonalità.md",
-    "ALGEBRA LINEARE/Distanza.md",
-    "ALGEBRA LINEARE/Norma.md",
     "ALGEBRA LINEARE/Allegati",
     "Pasted image 20231128181753.png",
     "ANALISI/Integrali/Allegati/Pasted image 20231127182349.png",
