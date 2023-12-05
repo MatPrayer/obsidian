@@ -7,4 +7,5 @@ Diciamo che $\underline{v},\underline{w}\in V$ sono ***ortogonali*** se $\underl
 >$\implies \lbrace\underline{v}_{1},\dots,\underline{v}_{m}\rbrace$ è linearmente indipendente.
 
 >**Corollario**
->Se $\dim V=n$
+>Se $\dim V=n$ e $\lbrace \underline{v}_{1},\dots,\underline{v}_{n}\rbrace$ ortogonali a coppie
+>$\implies \lbrace \underline{v}_{1},\dots,\underline{v}_{n}\rbrace$ è una base di $V$.
