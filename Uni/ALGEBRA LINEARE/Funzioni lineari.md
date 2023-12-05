@@ -6,7 +6,7 @@ Siano $V$, $V'$ [spazi vettoriali](Spazio%20vettoriale) reali.
 	- B) $f(\lambda v)=\lambda f(v)\quad\forall\lambda\in\Re$
 - $V$ è detto ***dominio*** di $f$, $V'$ è detto ***codominio** di $f$.
 - Se $f:V\to V'$ funzione lineare è **biunivoca**, $f$ è detta ***isomorfismo*** di spazi vettoriali
-- Se $V=V'$, $f:V\to V'$ funzione lineare, $f$ è detta ***endomorfismo***
+- Se $V=V'$, $f:V\to V'$ funzione lineare, $f$ è detta ***endomorfismo*** ^1d0291
 
 >**OSSERVAZIONE 1**
 >

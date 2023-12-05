@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "76c0051be52de0d9",
+            "id": "ccd3192b1a71082d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALGEBRA LINEARE/Base ortonormale.md",
+                "file": "ANALISI/Integrali/Calcolo degli integrali/Integrazione per sostituzione.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "C^",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALGEBRA LINEARE/Base ortonormale.md",
+                "file": "ANALISI/Integrali/Calcolo degli integrali/Integrazione per sostituzione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALGEBRA LINEARE/Base ortonormale.md",
+                "file": "ANALISI/Integrali/Calcolo degli integrali/Integrazione per sostituzione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALGEBRA LINEARE/Base ortonormale.md"
+                "file": "ANALISI/Integrali/Calcolo degli integrali/Integrazione per sostituzione.md"
               }
             }
           }
@@ -152,41 +151,44 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "76c0051be52de0d9",
+  "active": "ccd3192b1a71082d",
   "lastOpenFiles": [
+    "ANALISI/Integrali/Calcolo degli integrali/Formula fondamentale del calcolo integrale.md",
+    "ANALISI/Integrali/Calcolo degli integrali/Integrazione per sostituzione.md",
+    "ANALISI/Integrali/Calcolo degli integrali/Tabella delle primitive fondamentali.md",
+    "ANALISI/Integrali/Calcolo degli integrali",
+    "Screenshot 2023-12-05 at 17.29.28.png",
+    "ANALISI/Integrali/Integrale indefinito.md",
+    "ANALISI/Integrali/Primitive.md",
+    "ANALISI/Integrali/Teorema fondamentale del calcolo integrale.md",
+    "ANALISI/Calcolo differenziale/Definizione di Derivata.md",
+    "ANALISI/Calcolo differenziale/Criterio di derivabilità.md",
+    "ANALISI/Integrali/La funzione integrale.md",
+    "ANALISI/Integrali/Criteri di integrabilità.md",
+    "ANALISI/Integrali/Integrale di Reimann.md",
+    "ANALISI/Integrali/Teorema della media.md",
+    "ANALISI/Integrali/TODO.md",
+    "ALGEBRA LINEARE/Diagonalizzabilità.md",
+    "ALGEBRA LINEARE/Endomorfismi e cambiamenti di base.md",
+    "ALGEBRA LINEARE/Allegati/Pasted image 20231205163840.png",
+    "ALGEBRA LINEARE/Allegati/Pasted image 20231128181753.png",
+    "ALGEBRA LINEARE/Cambiamenti di base.md",
+    "ALGEBRA LINEARE/Funzioni lineari.md",
+    "ALGEBRA LINEARE/Isometrie.md",
+    "ALGEBRA LINEARE/Matrici ortogonali.md",
+    "ALGEBRA LINEARE/Spazio vettoriale euclideo.md",
+    "ALGEBRA LINEARE/Teorema di Laplace.md",
+    "ALGEBRA LINEARE/Complemento ortogonale.md",
     "ALGEBRA LINEARE/Proiezione ortogonale.md",
-    "ALGEBRA LINEARE/Base ortonormale.md",
     "ALGEBRA LINEARE/Ortogonalità.md",
     "ALGEBRA LINEARE/Distanza.md",
     "ALGEBRA LINEARE/Norma.md",
-    "ALGEBRA LINEARE/Spazio vettoriale euclideo.md",
-    "ALGEBRA LINEARE/Prodotto scalare.md",
-    "ALGEBRA LINEARE/Cambiamenti di base.md",
-    "ALGEBRA LINEARE/Teorema nullità + rango.md",
-    "ALGEBRA LINEARE/Matrici rappresentative.md",
-    "ANALISI/Integrali/TODO.md",
-    "ANALISI/Integrali/Teorema fondamentale del calcolo integrale (WIP).md",
-    "ANALISI/Integrali/Proprietà dell'integrale.md",
-    "ANALISI/Integrali/Teorema della media.md",
-    "ALGEBRA LINEARE/Allegati/Pasted image 20231128181753.png",
     "ALGEBRA LINEARE/Allegati",
-    "ANALISI/Integrali/La funzione integrale.md",
-    "ANALISI/Calcolo differenziale/Derivata seconda e derivate successive.md",
-    "ALGEBRA LINEARE/Coordinate.md",
     "Pasted image 20231128181753.png",
-    "ANALISI/Integrali/Somme superiori e inferiori.md",
     "ANALISI/Integrali/Allegati/Pasted image 20231127182349.png",
     "ANALISI/Integrali/Allegati",
-    "ANALISI/Integrali/Criteri di integrabilità.md",
-    "ANALISI/Integrali/Integrale di Reimann.md",
-    "ANALISI/Integrali/Raffinamento.md",
     "ANALISI/Integrali/Allegati/Pasted image 20231127182308.png",
-    "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
     "ANALISI/Integrali",
-    "ANALISI/Calcolo differenziale/Formula di Taylor nel calcolo dei limiti.md",
-    "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Peano.md",
-    "ANALISI/Calcolo differenziale/Formula di Taylor con resto di Lagrange.md",
     "PROGRAMMAZIONE",
     "Untitled.canvas",
     "ALGEBRA LINEARE",
