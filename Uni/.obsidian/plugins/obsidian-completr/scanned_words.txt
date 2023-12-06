@@ -159,6 +159,7 @@ cj
 cR
 consenta
 conclusione
+convergente
 sia
 sono
 se
@@ -353,6 +354,7 @@ ds
 dX
 dq
 dimostrare
+divergente
 in
 il
 indicato
@@ -949,6 +951,7 @@ pnn
 pYY
 parti
 parziale
+parziali
 Consideriamo
 Criterio
 Caratterizzazione
@@ -1002,6 +1005,7 @@ Cys
 COi
 CI
 Consiste
+Chiamiamo
 una
 un
 unico
@@ -1130,6 +1134,7 @@ eQ
 eb
 effettuare
 esempi
+esempio
 Diciamo
 Derivata
 Data
@@ -1276,6 +1281,9 @@ nf
 nS
 no
 negli
+numerica
+numeri
+necessaria
 modi
 minimo
 massimo
@@ -1785,6 +1793,7 @@ Ie
 Iqz
 IRK
 Integrazione
+Importante
 Linearit
 La
 Leibnitz

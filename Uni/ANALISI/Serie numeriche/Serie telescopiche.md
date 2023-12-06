@@ -13,3 +13,17 @@ Quindi la conclusione è:
 $$
 \sum_{n=0}^{+\infty}a_{n}=\lim_{ k \to \infty }b_{k+1}-b_{0} 
 $$
+Esempi di serie di tipo telescopico sono:
+
+- **La serie di Méngoli**: 
+$$
+\sum_{n=1}^{+\infty}\frac{1}{n(n+1)}
+$$
+$a_{n}=n(n+1),\quad \frac{n+1}{(n+1n)}-\frac{n}{(n+1)n}=\underbrace{\frac{1}{n}}_{-b_{n}}-\underbrace{\frac{1}{n+1}}_{-b_{n+1}}\implies a_{n}=b_{n+1}-b_{n}\implies \sum_{n=1}^{+\infty}a_{n}=\underbrace{\lim_{ k \to \infty }b_{k+1}}_{0}-\underbrace{b_{1}}_{-1}=-b_{1}=1$ Converge a $1$.
+
+- **La serie logaritmica:**
+$$
+\sum_{n=1}^{+\infty}\log\left( 1+\frac{1}{n} \right)
+$$
+$a_{n}=\log\left( 1+\frac{1}{n} \right),\quad\log(\frac{n+1}{n}=\underbrace{\log(n+1)}_{b_{n+1}}-\underbrace{\log(n)}_{b_{n}}\implies \sum_{n=1}^{+\infty}a_{n}=\underbrace{\lim_{k\to\infty}(b_{k+1})}_{+\infty}-\underbrace{b_{1}}_{0}=+\infty$
+Diverge a $+\infty$.

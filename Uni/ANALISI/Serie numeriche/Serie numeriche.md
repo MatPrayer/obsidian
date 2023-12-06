@@ -8,6 +8,6 @@ Chiamiamo ***serie numerica*** il **limite delle somme parziali**:
 $$
 \sum_{n=0}^{+\infty}a_{n}=\lim_{ n \to \infty }S_{k}=\lim_{ n \to \infty }\sum_{n=0}^k a_{n}  
 $$
-- La serie è detta **convergente** se il limite di $S_{k}$ *esiste finito*
+- La serie è detta **convergente** se il limite di $S_{k}$ *esiste finito* ^3dea5c
 - La serie è detta **divergente** se il limite di $S_{k}$ esiste e *vale $\pm\infty$*
 - La serie è detta **indeterminata** se il limite di $S_{k}$ *non esiste*

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Serie numeriche/Serie telescopiche.md",
+                "file": "ANALISI/Serie numeriche/Condizione necessaria per la convergenza di una serie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Serie numeriche/Serie telescopiche.md",
+                "file": "ANALISI/Serie numeriche/Condizione necessaria per la convergenza di una serie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Serie numeriche/Serie telescopiche.md",
+                "file": "ANALISI/Serie numeriche/Condizione necessaria per la convergenza di una serie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Serie numeriche/Serie telescopiche.md"
+                "file": "ANALISI/Serie numeriche/Condizione necessaria per la convergenza di una serie.md"
               }
             }
           }
@@ -153,9 +153,11 @@
   },
   "active": "e083b863c15bac16",
   "lastOpenFiles": [
-    "ANALISI/Serie numeriche/Serie geometriche.md",
-    "ANALISI/Serie numeriche/Serie telescopiche.md",
+    "ANALISI/Calcolo differenziale/Funzione infinitesima.md",
+    "ANALISI/Serie numeriche/Condizione necessaria per la convergenza di una serie.md",
     "ANALISI/Serie numeriche/Serie numeriche.md",
+    "ANALISI/Serie numeriche/Serie telescopiche.md",
+    "ANALISI/Serie numeriche/Serie geometriche.md",
     "ANALISI/Integrali/Calcolo degli integrali/Integrazione delle funzioni razionali (WIP).md",
     "ANALISI/Serie numeriche",
     "ANALISI/Integrali/Integrale di Reimann.md",
@@ -182,8 +184,6 @@
     "ALGEBRA LINEARE/Cambiamenti di base.md",
     "ALGEBRA LINEARE/Funzioni lineari.md",
     "ALGEBRA LINEARE/Isometrie.md",
-    "ALGEBRA LINEARE/Matrici ortogonali.md",
-    "ALGEBRA LINEARE/Spazio vettoriale euclideo.md",
     "ALGEBRA LINEARE/Allegati",
     "Pasted image 20231128181753.png",
     "ANALISI/Integrali/Allegati/Pasted image 20231127182349.png",
