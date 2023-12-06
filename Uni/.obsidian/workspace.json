@@ -14,8 +14,35 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "5aeee679ec4f7a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie (WIP).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8339353efd9225f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANALISI/Serie numeriche/Criterio del confronto.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie (WIP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie (WIP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie (WIP).md"
+              }
             }
           }
         ],
@@ -133,15 +164,22 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d42d9e2d15526c60",
+  "active": "5aeee679ec4f7a4b",
   "lastOpenFiles": [
-    "ANALISI/Serie numeriche/Serie numeriche.md",
-    "ANALISI/Serie numeriche/Serie geometriche.md",
-    "ANALISI/Serie numeriche/Serie telescopiche.md",
-    "ANALISI/Serie numeriche/Condizione necessaria per la convergenza di una serie.md",
-    "ANALISI/Serie numeriche/Serie a termini positivi.md",
+    "ANALISI/Serie numeriche/Criterio di Leibnitz.md",
+    "ANALISI/Serie numeriche/Schema per lo studio delle serie (WIP).md",
+    "ANALISI/Serie numeriche/Serie a segni alterni.md",
+    "ANALISI/Serie numeriche/Criterio di convergenza assoluta.md",
+    "ANALISI/Serie numeriche/Criteri del rapporto e della radice n-esima.md",
+    "ANALISI/Serie numeriche/Serie armonica generalizzata.md",
     "ANALISI/Serie numeriche/Criterio del confronto.md",
     "ANALISI/Serie numeriche/Criterio del confronto asintotico.md",
+    "ANALISI/Serie numeriche/Condizione necessaria per la convergenza di una serie.md",
+    "Pasted image 20231128181753.png",
+    "ANALISI/Serie numeriche/Serie telescopiche.md",
+    "ANALISI/Serie numeriche/Serie geometriche.md",
+    "ANALISI/Serie numeriche/Serie numeriche.md",
+    "ANALISI/Serie numeriche/Serie a termini positivi.md",
     "ANALISI/Calcolo differenziale/Funzione infinitesima.md",
     "ANALISI/Integrali/Calcolo degli integrali/Integrazione delle funzioni razionali (WIP).md",
     "ANALISI/Serie numeriche",
@@ -158,16 +196,9 @@
     "ANALISI/Integrali/Integrale indefinito.md",
     "ANALISI/Integrali/Primitive.md",
     "ANALISI/Calcolo differenziale/Definizione di Derivata.md",
-    "ANALISI/Calcolo differenziale/Criterio di derivabilità.md",
-    "ANALISI/Integrali/La funzione integrale.md",
-    "ANALISI/Integrali/Teorema della media.md",
-    "ANALISI/Integrali/TODO.md",
-    "ALGEBRA LINEARE/Diagonalizzabilità.md",
-    "ALGEBRA LINEARE/Endomorfismi e cambiamenti di base.md",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231205163840.png",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231128181753.png",
     "ALGEBRA LINEARE/Allegati",
-    "Pasted image 20231128181753.png",
     "ANALISI/Integrali/Allegati/Pasted image 20231127182349.png",
     "ANALISI/Integrali/Allegati",
     "ANALISI/Integrali/Allegati/Pasted image 20231127182308.png",

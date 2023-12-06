@@ -165,6 +165,7 @@ contronominale
 converge
 criterio
 confronto
+classificare
 sia
 sono
 se
@@ -277,6 +278,10 @@ suoi
 spesso
 successioni
 supponendo
+simboli
+simmetrica
+segni
+sua
 derivabile
 derivabili
 detto
@@ -367,6 +372,7 @@ dimostrare
 divergente
 dea
 diciamo
+dalle
 in
 il
 indicato
@@ -447,6 +453,7 @@ integrare
 importanti
 infatti
 influenzano
+importante
 Allora
 Algebra
 Associativa
@@ -521,6 +528,7 @@ Nt
 NN
 Nb
 Nf
+Nel
 BENE
 Basi
 Biunivoca
@@ -613,6 +621,8 @@ termini
 tutti
 tipo
 telescopico
+transitiva
+tuttavia
 le
 limite
 limiti
@@ -817,6 +827,7 @@ variazione
 valora
 via
 vero
+verificano
 assoluto
 abbiamo
 ad
@@ -901,6 +912,9 @@ aq
 asintotico
 alcuni
 affermazione
+asintotiche
+armonica
+alterni
 punti
 punto
 principale
@@ -981,6 +995,7 @@ parziale
 parziali
 primi
 positivi
+positivo
 Consideriamo
 Criterio
 Caratterizzazione
@@ -1168,6 +1183,7 @@ esempi
 esempio
 escludono
 escludendone
+equivalenza
 Diciamo
 Derivata
 Data
@@ -1381,6 +1397,7 @@ mBBX
 mMA
 modificandone
 modificare
+mediante
 ordine
 ogni
 ovvero
@@ -1664,6 +1681,8 @@ rn
 risolvibile
 relativa
 realt
+relazione
+riflessiva
 Minimo
 Massimo
 Massimi
@@ -1738,6 +1757,7 @@ hV
 hfg
 hc
 hyG
+hanno
 globale
 geometrico
 grafico
@@ -1783,6 +1803,7 @@ gs
 gxw
 gT
 geometrica
+generalizzata
 Il
 Indicato
 Infatti
@@ -1895,6 +1916,7 @@ Rn
 Ry
 Ro
 Rx
+Riemann
 quoziente
 qualunque
 quale
@@ -1951,6 +1973,7 @@ qp
 qcI
 qoA
 questa
+quello
 WIP
 Wf
 WXj
@@ -2485,6 +2508,7 @@ ZTu
 ZsR
 ZWl
 ZY
+Zeta
 YW
 Yg
 Yv
