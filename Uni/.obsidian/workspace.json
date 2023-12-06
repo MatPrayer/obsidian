@@ -14,22 +14,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "e083b863c15bac16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ANALISI/Serie numeriche/Criterio del confronto.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Serie numeriche/Criterio del confronto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Serie numeriche/Criterio del confronto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ANALISI/Serie numeriche/Criterio del confronto.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,15 +133,16 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e083b863c15bac16",
+  "active": "d42d9e2d15526c60",
   "lastOpenFiles": [
+    "ANALISI/Serie numeriche/Serie numeriche.md",
+    "ANALISI/Serie numeriche/Serie geometriche.md",
+    "ANALISI/Serie numeriche/Serie telescopiche.md",
+    "ANALISI/Serie numeriche/Condizione necessaria per la convergenza di una serie.md",
     "ANALISI/Serie numeriche/Serie a termini positivi.md",
     "ANALISI/Serie numeriche/Criterio del confronto.md",
-    "ANALISI/Serie numeriche/Condizione necessaria per la convergenza di una serie.md",
-    "ANALISI/Serie numeriche/Serie numeriche.md",
+    "ANALISI/Serie numeriche/Criterio del confronto asintotico.md",
     "ANALISI/Calcolo differenziale/Funzione infinitesima.md",
-    "ANALISI/Serie numeriche/Serie telescopiche.md",
-    "ANALISI/Serie numeriche/Serie geometriche.md",
     "ANALISI/Integrali/Calcolo degli integrali/Integrazione delle funzioni razionali (WIP).md",
     "ANALISI/Serie numeriche",
     "ANALISI/Integrali/Integrale di Reimann.md",
@@ -183,7 +166,6 @@
     "ALGEBRA LINEARE/Endomorfismi e cambiamenti di base.md",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231205163840.png",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231128181753.png",
-    "ALGEBRA LINEARE/Cambiamenti di base.md",
     "ALGEBRA LINEARE/Allegati",
     "Pasted image 20231128181753.png",
     "ANALISI/Integrali/Allegati/Pasted image 20231127182349.png",

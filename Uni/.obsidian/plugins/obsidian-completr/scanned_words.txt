@@ -163,6 +163,8 @@ convergente
 carattere
 contronominale
 converge
+criterio
+confronto
 sia
 sono
 se
@@ -273,6 +275,8 @@ sere
 specifico
 suoi
 spesso
+successioni
+supponendo
 derivabile
 derivabili
 detto
@@ -362,6 +366,7 @@ dq
 dimostrare
 divergente
 dea
+diciamo
 in
 il
 indicato
@@ -441,6 +446,7 @@ integrali
 integrare
 importanti
 infatti
+influenzano
 Allora
 Algebra
 Associativa
@@ -605,6 +611,8 @@ tM
 ts
 termini
 tutti
+tipo
+telescopico
 le
 limite
 limiti
@@ -807,6 +815,8 @@ vY
 vmv
 variazione
 valora
+via
+vero
 assoluto
 abbiamo
 ad
@@ -890,6 +900,7 @@ ar
 aq
 asintotico
 alcuni
+affermazione
 punti
 punto
 principale
@@ -1025,6 +1036,7 @@ CI
 Consiste
 Chiamiamo
 Carattere
+Converge
 una
 un
 unico
@@ -1206,6 +1218,8 @@ Di
 DU
 DW
 Da
+Date
+Diverge
 Tale
 Teorema
 Taylor
@@ -1305,6 +1319,7 @@ negli
 numerica
 numeri
 necessaria
+ngoli
 modi
 minimo
 massimo

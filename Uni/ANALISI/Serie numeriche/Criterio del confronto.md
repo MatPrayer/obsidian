@@ -1,5 +1,5 @@
 # Teorema del criterio del confronto
-Date due successioni $(a_{n})_{n}$ e $(b_{n})_{n}$ a [[Serie a termini positivi|termini positivi]], e supponendo che esista $n_{0}\in\mathbb{N}$ tale che $a_{n}\le b_{n}$ per ogni $n\ge n_{0}$, si ha che:
+Date due [[Successioni|successioni]] $(a_{n})_{n}$ e $(b_{n})_{n}$ a [[Serie a termini positivi|termini positivi]], e supponendo che esista $n_{0}\in\mathbb{N}$ tale che $a_{n}\le b_{n}$ per ogni $n\ge n_{0}$, si ha che:
 
 1. $$
 \sum_{n=0}^{\infty}b_{n}<+\infty \implies \sum_{n=0}^{\infty}a_{n} <+\infty
