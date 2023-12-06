@@ -158,6 +158,7 @@ cq
 cj
 cR
 consenta
+conclusione
 sia
 sono
 se
@@ -263,6 +264,8 @@ sfW
 sA
 swC
 so
+serie
+sere
 derivabile
 derivabili
 detto
@@ -349,6 +352,7 @@ de
 ds
 dX
 dq
+dimostrare
 in
 il
 indicato
@@ -426,6 +430,7 @@ iBP
 ib
 integrali
 integrare
+importanti
 Allora
 Algebra
 Associativa
@@ -943,6 +948,7 @@ ph
 pnn
 pYY
 parti
+parziale
 Consideriamo
 Criterio
 Caratterizzazione
@@ -1123,6 +1129,7 @@ ey
 eQ
 eb
 effettuare
+esempi
 Diciamo
 Derivata
 Data
@@ -1172,6 +1179,7 @@ DWW
 Di
 DU
 DW
+Da
 Tale
 Teorema
 Taylor
@@ -1386,6 +1394,7 @@ oU
 oc
 ou
 oW
+ottenga
 br
 base
 biunivoca
@@ -1607,6 +1616,7 @@ rD
 roM
 rn
 risolvibile
+relativa
 Minimo
 Massimo
 Massimi
@@ -1725,6 +1735,7 @@ gN
 gs
 gxw
 gT
+geometrica
 Il
 Indicato
 Infatti
@@ -2111,6 +2122,7 @@ QEob
 Qß
 Qg
 QBi
+Quindi
 Jordan
 Jma
 Jn

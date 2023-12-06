@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Serie numeriche/Serie telescopiche (WIP).md",
+                "file": "ANALISI/Serie numeriche/Serie telescopiche.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Serie numeriche/Serie telescopiche (WIP).md",
+                "file": "ANALISI/Serie numeriche/Serie telescopiche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Serie numeriche/Serie telescopiche (WIP).md",
+                "file": "ANALISI/Serie numeriche/Serie telescopiche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Serie numeriche/Serie telescopiche (WIP).md"
+                "file": "ANALISI/Serie numeriche/Serie telescopiche.md"
               }
             }
           }
@@ -155,7 +154,7 @@
   "active": "e083b863c15bac16",
   "lastOpenFiles": [
     "ANALISI/Serie numeriche/Serie geometriche.md",
-    "ANALISI/Serie numeriche/Serie telescopiche (WIP).md",
+    "ANALISI/Serie numeriche/Serie telescopiche.md",
     "ANALISI/Serie numeriche/Serie numeriche.md",
     "ANALISI/Integrali/Calcolo degli integrali/Integrazione delle funzioni razionali (WIP).md",
     "ANALISI/Serie numeriche",
