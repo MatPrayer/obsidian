@@ -160,6 +160,9 @@ cR
 consenta
 conclusione
 convergente
+carattere
+contronominale
+converge
 sia
 sono
 se
@@ -267,6 +270,9 @@ swC
 so
 serie
 sere
+specifico
+suoi
+spesso
 derivabile
 derivabili
 detto
@@ -355,6 +361,7 @@ dX
 dq
 dimostrare
 divergente
+dea
 in
 il
 indicato
@@ -433,6 +440,7 @@ ib
 integrali
 integrare
 importanti
+infatti
 Allora
 Algebra
 Associativa
@@ -595,6 +603,8 @@ tBQ
 tJ
 tM
 ts
+termini
+tutti
 le
 limite
 limiti
@@ -691,6 +701,8 @@ fk
 fsl
 fz
 fUc
+finita
+fa
 Esempi
 Esempio
 Esiste
@@ -793,6 +805,8 @@ vM
 vv
 vY
 vmv
+variazione
+valora
 assoluto
 abbiamo
 ad
@@ -874,6 +888,8 @@ avF
 aBl
 ar
 aq
+asintotico
+alcuni
 punti
 punto
 principale
@@ -952,6 +968,8 @@ pYY
 parti
 parziale
 parziali
+primi
+positivi
 Consideriamo
 Criterio
 Caratterizzazione
@@ -1006,6 +1024,7 @@ COi
 CI
 Consiste
 Chiamiamo
+Carattere
 una
 un
 unico
@@ -1135,6 +1154,8 @@ eb
 effettuare
 esempi
 esempio
+escludono
+escludendone
 Diciamo
 Derivata
 Data
@@ -1343,6 +1364,8 @@ mHm
 ml
 mBBX
 mMA
+modificandone
+modificare
 ordine
 ogni
 ovvero
@@ -1625,6 +1648,7 @@ roM
 rn
 risolvibile
 relativa
+realt
 Minimo
 Massimo
 Massimi
@@ -1911,6 +1935,7 @@ qWW
 qp
 qcI
 qoA
+questa
 WIP
 Wf
 WXj
