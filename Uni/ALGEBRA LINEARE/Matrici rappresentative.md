@@ -31,7 +31,7 @@ Dati $V, A$, possiamo definire una funzione lineare
 $$T_{A}:V\to\Re^n,\quad\underline{v}\to(v_{1},\dots,v_{n})\qquad \text{ove }\underline{v}=\sum_{i=1}^nv_{i}\underline{a}_{i}$$
 Mettendo tutto assieme si ottiene un diagramma:
 
-![[Pasted image 20231128181753.png]]
+![[Pasted image 20231128181753 1.png]]
 
 >**Nota bene**
 >Il diagramma è *commutativo*, ossia $T_{M}=T_{B}\circ f\circ(T_{A})^{-1}$ (oppure $f=(T_{B})^{-1}\circ T_{M}\circ T_{A}$)

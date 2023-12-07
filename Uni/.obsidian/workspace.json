@@ -8,10 +8,10 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d42d9e2d15526c60",
+            "id": "0720637627355a9e",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "empty",
               "state": {}
             }
           }
@@ -57,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -134,11 +133,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d42d9e2d15526c60",
+  "active": "0720637627355a9e",
   "lastOpenFiles": [
     "ANALISI/Integrali/Integrali generalizzati.md",
-    "Screenshot 2023-12-07 at 11.47.21.png",
-    "Screenshot 2023-12-07 at 11.33.20.png",
+    "ANALISI/Integrali/Integrale indefinito.md",
+    "ANALISI/Integrali/TODO.md",
+    "ANALISI/Integrali/Proprietà dell'integrale.md",
+    "ANALISI/Integrali/Calcolo degli integrali/Formula fondamentale del calcolo integrale.md",
+    "ANALISI/Integrali/Allegati/Screenshot 2023-12-05 at 17.29.28.png",
+    "ALGEBRA LINEARE/Allegati/Pasted image 20231128181753 1.png",
+    "ANALISI/Integrali/Allegati/Screenshot 2023-12-07 at 11.33.20.png",
+    "ANALISI/Integrali/Allegati/Screenshot 2023-12-07 at 11.47.21.png",
     "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
     "ANALISI/Serie numeriche/Criteri del rapporto e della radice n-esima.md",
     "ANALISI/Serie numeriche/Criterio del confronto.md",
@@ -148,7 +153,6 @@
     "ANALISI/Serie numeriche/Serie armonica generalizzata.md",
     "ANALISI/Serie numeriche/Criterio del confronto asintotico.md",
     "ANALISI/Serie numeriche/Condizione necessaria per la convergenza di una serie.md",
-    "Pasted image 20231128181753.png",
     "ANALISI/Serie numeriche/Serie telescopiche.md",
     "ANALISI/Serie numeriche/Serie geometriche.md",
     "ANALISI/Serie numeriche/Serie numeriche.md",
@@ -162,11 +166,7 @@
     "ANALISI/Integrali/Calcolo degli integrali/Integrazione per parti.md",
     "ANALISI/Integrali/Calcolo degli integrali/Integrazione per sostituzione.md",
     "ANALISI/Integrali/Calcolo degli integrali/Tabella delle primitive fondamentali.md",
-    "ANALISI/Integrali/Calcolo degli integrali/Formula fondamentale del calcolo integrale.md",
-    "ANALISI/Integrali/Simmetrie negli integrali.md",
-    "Screenshot 2023-12-05 at 17.29.28.png",
     "ANALISI/Integrali/Calcolo degli integrali",
-    "ANALISI/Integrali/Integrale indefinito.md",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231205163840.png",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231128181753.png",
     "ALGEBRA LINEARE/Allegati",
