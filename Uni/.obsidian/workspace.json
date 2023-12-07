@@ -14,35 +14,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "5aeee679ec4f7a4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ANALISI/Integrali/Integrali generalizzati.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8339353efd9225f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ANALISI/Serie numeriche/Criterio del confronto.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Integrali/Integrali generalizzati.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Integrali/Integrali generalizzati.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ANALISI/Integrali/Integrali generalizzati.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -165,11 +134,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "5aeee679ec4f7a4b",
+  "active": "d42d9e2d15526c60",
   "lastOpenFiles": [
+    "ANALISI/Integrali/Integrali generalizzati.md",
+    "Screenshot 2023-12-07 at 11.47.21.png",
     "Screenshot 2023-12-07 at 11.33.20.png",
     "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
-    "ANALISI/Integrali/Integrali generalizzati.md",
     "ANALISI/Serie numeriche/Criteri del rapporto e della radice n-esima.md",
     "ANALISI/Serie numeriche/Criterio del confronto.md",
     "ANALISI/Serie numeriche/Criterio di Leibnitz.md",

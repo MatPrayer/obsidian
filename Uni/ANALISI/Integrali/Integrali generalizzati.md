@@ -23,3 +23,16 @@ Se il limite è finito, diciamo che $f$ è ***integrabile in senso generalizzato
 Se il limite vale $\pm \infty$, diciamo che l'integrale improprio è [[Serie numeriche#^9c26fa|divergente]].
 
 ![[Screenshot 2023-12-07 at 11.33.20.png]]
+
+# Definizione di integrale generalizzato in un intervallo illimitato
+
+Sia $f:[a,+\infty)\to\Re$ integrabile in $[a,M]$ per ogni $M>a$.
+Definiamo l'***integrale improprio o generalizzato*** di $f$ in $(a,+\infty)$ come il limite (se esiste):
+$$
+\int_{a}^{+\infty} f(x)  \, dx := \lim_{M\to +\infty}\int _{a}^M f(x) \, dx  
+$$
+Similmente, se $f$ è integrabile in $[M,b]$ per ogni $M<b$ poniamo:
+$$
+\int_{-\infty}^b f(x)  \, dx := \lim_{ n \to -\infty }\int_{M}^b f(x)  \, dx   
+$$
+![[Screenshot 2023-12-07 at 11.47.21.png]]
