@@ -189,6 +189,8 @@ cGs
 cBi
 cc
 cO
+calcolare
+calcola
 sia
 sono
 se
@@ -322,6 +324,11 @@ sW
 sL
 sO
 sl
+sotto
+scomposizione
+semplici
+scompone
+sommano
 derivabile
 derivabili
 detto
@@ -424,6 +431,14 @@ dQ
 dk
 dSSS
 definito
+dispari
+denominatore
+divisione
+distinguere
+discriminante
+distinte
+denominatori
+descritti
 in
 il
 indicato
@@ -710,6 +725,7 @@ tDg
 ta
 te
 twR
+tipi
 le
 limite
 limiti
@@ -779,6 +795,7 @@ lw
 lKD
 lWj
 lv
+logaritmo
 funzioni
 funzione
 finito
@@ -833,6 +850,12 @@ fDv
 fi
 fkY
 fju
+fratti
+farvi
+figurare
+fattori
+frazione
+frazioni
 Esempi
 Esempio
 Esiste
@@ -1055,6 +1078,8 @@ ae
 au
 aP
 auE
+all
+algebrica
 punti
 punto
 principale
@@ -1151,6 +1176,14 @@ pz
 pQ
 pB
 pq
+pari
+produce
+presenta
+procede
+perfetto
+procedimento
+primo
+precedenza
 Consideriamo
 Criterio
 Caratterizzazione
@@ -1284,6 +1317,8 @@ ue
 uW
 umK
 uh
+uguale
+ulteriori
 ed
 esiste
 enunciato
@@ -1367,6 +1402,7 @@ eL
 edd
 ej
 el
+effettua
 Diciamo
 Derivata
 Data
@@ -1426,6 +1462,7 @@ Dx
 DK
 Dl
 Dpi
+Denominatore
 Tale
 Teorema
 Taylor
@@ -1545,6 +1582,7 @@ ni
 nM
 nSU
 nnS
+numeratore
 modi
 minimo
 massimo
@@ -1618,6 +1656,7 @@ mUo
 mN
 mP
 mI
+maggiore
 ordine
 ogni
 ovvero
@@ -1690,6 +1729,9 @@ oe
 oF
 oy
 oh
+origine
+opera
+ottenuti
 br
 base
 biunivoca
@@ -1967,6 +2009,10 @@ rr
 reX
 rqp
 rG
+ricondursi
+radici
+risultati
+riconducendosi
 Minimo
 Massimo
 Massimi
@@ -2314,6 +2360,7 @@ qCZ
 qT
 qq
 qD
+questo
 WIP
 Wf
 WXj
@@ -2499,6 +2546,7 @@ Gc
 Gu
 GG
 GiJe
+Grado
 Vale
 Verso
 Versori
