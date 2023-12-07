@@ -166,6 +166,9 @@ converge
 criterio
 confronto
 classificare
+categoria
+capire
+criteri
 sia
 sono
 se
@@ -282,6 +285,7 @@ simboli
 simmetrica
 segni
 sua
+studiata
 derivabile
 derivabili
 detto
@@ -373,6 +377,7 @@ divergente
 dea
 diciamo
 dalle
+dedurre
 in
 il
 indicato
@@ -828,6 +833,7 @@ valora
 via
 vero
 verificano
+verifica
 assoluto
 abbiamo
 ad
@@ -915,6 +921,10 @@ affermazione
 asintotiche
 armonica
 alterni
+appartiene
+applicare
+assoluta
+assolutamente
 punti
 punto
 principale
@@ -996,6 +1006,8 @@ parziali
 primi
 positivi
 positivo
+posso
+presta
 Consideriamo
 Criterio
 Caratterizzazione
@@ -1184,6 +1196,7 @@ esempio
 escludono
 escludendone
 equivalenza
+eventualmente
 Diciamo
 Derivata
 Data
@@ -1683,6 +1696,8 @@ relativa
 realt
 relazione
 riflessiva
+rapporto
+radice
 Minimo
 Massimo
 Massimi

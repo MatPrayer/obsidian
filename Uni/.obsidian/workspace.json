@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie (WIP).md",
+                "file": "ANALISI/Integrali/Integrali generalizzati.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie (WIP).md",
+                "file": "ANALISI/Integrali/Integrali generalizzati.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie (WIP).md",
+                "file": "ANALISI/Integrali/Integrali generalizzati.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie (WIP).md"
+                "file": "ANALISI/Integrali/Integrali generalizzati.md"
               }
             }
           }
@@ -166,13 +167,15 @@
   },
   "active": "5aeee679ec4f7a4b",
   "lastOpenFiles": [
+    "Screenshot 2023-12-07 at 11.33.20.png",
+    "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
+    "ANALISI/Integrali/Integrali generalizzati.md",
+    "ANALISI/Serie numeriche/Criteri del rapporto e della radice n-esima.md",
+    "ANALISI/Serie numeriche/Criterio del confronto.md",
     "ANALISI/Serie numeriche/Criterio di Leibnitz.md",
-    "ANALISI/Serie numeriche/Schema per lo studio delle serie (WIP).md",
     "ANALISI/Serie numeriche/Serie a segni alterni.md",
     "ANALISI/Serie numeriche/Criterio di convergenza assoluta.md",
-    "ANALISI/Serie numeriche/Criteri del rapporto e della radice n-esima.md",
     "ANALISI/Serie numeriche/Serie armonica generalizzata.md",
-    "ANALISI/Serie numeriche/Criterio del confronto.md",
     "ANALISI/Serie numeriche/Criterio del confronto asintotico.md",
     "ANALISI/Serie numeriche/Condizione necessaria per la convergenza di una serie.md",
     "Pasted image 20231128181753.png",
@@ -194,8 +197,6 @@
     "Screenshot 2023-12-05 at 17.29.28.png",
     "ANALISI/Integrali/Calcolo degli integrali",
     "ANALISI/Integrali/Integrale indefinito.md",
-    "ANALISI/Integrali/Primitive.md",
-    "ANALISI/Calcolo differenziale/Definizione di Derivata.md",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231205163840.png",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231128181753.png",
     "ALGEBRA LINEARE/Allegati",

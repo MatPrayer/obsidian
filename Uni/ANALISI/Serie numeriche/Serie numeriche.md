@@ -10,6 +10,8 @@ $$
 $$
 ## Carattere di una serie
 
+^2375e6
+
 - La serie è detta **[[Condizione necessaria per la convergenza di una serie|convergente]]** se il limite di $S_{k}$ *esiste finito* ^a217d7
 - La serie è detta **divergente** se il limite di $S_{k}$ esiste e *vale $\pm\infty$* ^9c26fa
 - La serie è detta **indeterminata** se il limite di $S_{k}$ *non esiste* ^80d54f
