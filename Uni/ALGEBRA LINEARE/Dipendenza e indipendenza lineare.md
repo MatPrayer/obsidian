@@ -5,7 +5,7 @@ In uno [spazio vettoriale](Spazio%20vettoriale.md)  $V$ i vettori v_1,...,v_m$ s
 
 
 ### Indipendenza
-In uno spazio vettoriale $V$ i vettori $v_1,...,v_m$ sono ***linearmente indipendenti*** se nessuna combinazione lineare e uguale al vettore nullo, a parte la combinazione lineare banale.
+In uno spazio vettoriale $V$ i vettori $v_1,...,v_m$ sono ***linearmente indipendenti*** se nessuna combinazione lineare e uguale al vettore nullo, a parte la combinazione lineare banale. ^a95079
 
 $$\lambda_1 v_1 + ... + \lambda_m v_m = 0 \implies \lambda_1, ..., \lambda_m =0 \quad$$
 <br>

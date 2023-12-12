@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Integrali/Integrali generalizzati.md",
+                "file": "ALGEBRA LINEARE/Autovalori ed autovettori (WIP).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Integrali/Integrali generalizzati.md",
+                "file": "ALGEBRA LINEARE/Autovalori ed autovettori (WIP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Integrali/Integrali generalizzati.md",
+                "file": "ALGEBRA LINEARE/Autovalori ed autovettori (WIP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Integrali/Integrali generalizzati.md"
+                "file": "ALGEBRA LINEARE/Autovalori ed autovettori (WIP).md"
               }
             }
           }
@@ -144,10 +144,13 @@
   },
   "active": "6c61caebfb3cca76",
   "lastOpenFiles": [
-    "ANALISI/Integrali/TODO.md",
+    "ALGEBRA LINEARE/Diagonalizzabilità.md",
+    "ALGEBRA LINEARE/Autovalori ed autovettori (WIP).md",
+    "ALGEBRA LINEARE/Base ortonormale (WIP).md",
     "ANALISI/Integrali/Calcolo degli integrali/Integrazione delle funzioni razionali.md",
-    "ANALISI/Integrali/La funzione integrale.md",
     "ANALISI/Integrali/Integrali generalizzati.md",
+    "ANALISI/Integrali/TODO.md",
+    "ANALISI/Integrali/La funzione integrale.md",
     "ANALISI/Integrali/Simmetrie negli integrali.md",
     "ANALISI/Integrali/Integrale indefinito.md",
     "ANALISI/Integrali/Proprietà dell'integrale.md",
@@ -172,9 +175,6 @@
     "ANALISI/Calcolo differenziale/Funzione infinitesima.md",
     "ANALISI/Serie numeriche",
     "ANALISI/Integrali/Integrale di Reimann.md",
-    "ANALISI/Integrali/Criteri di integrabilità.md",
-    "ANALISI/Integrali/Teorema fondamentale del calcolo integrale.md",
-    "ANALISI/Integrali/Calcolo degli integrali/Integrazione per parti.md",
     "ANALISI/Integrali/Calcolo degli integrali",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231205163840.png",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231128181753.png",
