@@ -5,3 +5,5 @@ Sia $(a_{n})_{n}$ a [[Serie a termini positivi|termini positivi]]. Supponiamo ch
 
 >**Osservazione**
 >Se $L=1$ il criterio non dice nulla.
+
+>Il criterio del rapporto è spesso utilizzato quando una serie presenta dei fattoriali

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALGEBRA LINEARE/Autovalori ed autovettori (WIP).md",
+                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALGEBRA LINEARE/Autovalori ed autovettori (WIP).md",
+                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALGEBRA LINEARE/Autovalori ed autovettori (WIP).md",
+                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALGEBRA LINEARE/Autovalori ed autovettori (WIP).md"
+                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie.md"
               }
             }
           }
@@ -144,14 +144,24 @@
   },
   "active": "6c61caebfb3cca76",
   "lastOpenFiles": [
-    "ALGEBRA LINEARE/Diagonalizzabilità.md",
+    "ANALISI/Serie numeriche/Serie armonica generalizzata.md",
+    "ANALISI/Serie numeriche/Integrali generalizzati/Test integrale.md",
+    "ANALISI/Serie numeriche/Integrali generalizzati/Serie e integrali generalizzati.md",
+    "ANALISI/Serie numeriche/Integrali generalizzati/Criterio di convergenza assoluta.md",
+    "ANALISI/Serie numeriche/Integrali generalizzati/Integrali generalizzati.md",
+    "ANALISI/Serie numeriche/Integrali generalizzati/Il simbolo di asintotico.md",
+    "ANALISI/Serie numeriche/Integrali generalizzati/Criterio del confronto.md",
+    "ANALISI/Serie numeriche/Integrali generalizzati/Criterio del confronto asintotico.md",
+    "ANALISI/Serie numeriche/Integrali generalizzati",
+    "ANALISI/Serie numeriche/Criterio del confronto asintotico.md",
+    "ANALISI/Integrali/Simmetrie negli integrali.md",
+    "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
     "ALGEBRA LINEARE/Autovalori ed autovettori (WIP).md",
+    "ALGEBRA LINEARE/Diagonalizzabilità.md",
     "ALGEBRA LINEARE/Base ortonormale (WIP).md",
     "ANALISI/Integrali/Calcolo degli integrali/Integrazione delle funzioni razionali.md",
-    "ANALISI/Integrali/Integrali generalizzati.md",
     "ANALISI/Integrali/TODO.md",
     "ANALISI/Integrali/La funzione integrale.md",
-    "ANALISI/Integrali/Simmetrie negli integrali.md",
     "ANALISI/Integrali/Integrale indefinito.md",
     "ANALISI/Integrali/Proprietà dell'integrale.md",
     "ANALISI/Integrali/Calcolo degli integrali/Formula fondamentale del calcolo integrale.md",
@@ -165,16 +175,7 @@
     "ANALISI/Serie numeriche/Criterio di Leibnitz.md",
     "ANALISI/Serie numeriche/Serie a segni alterni.md",
     "ANALISI/Serie numeriche/Criterio di convergenza assoluta.md",
-    "ANALISI/Serie numeriche/Serie armonica generalizzata.md",
-    "ANALISI/Serie numeriche/Criterio del confronto asintotico.md",
-    "ANALISI/Serie numeriche/Condizione necessaria per la convergenza di una serie.md",
-    "ANALISI/Serie numeriche/Serie telescopiche.md",
-    "ANALISI/Serie numeriche/Serie geometriche.md",
-    "ANALISI/Serie numeriche/Serie numeriche.md",
-    "ANALISI/Serie numeriche/Serie a termini positivi.md",
-    "ANALISI/Calcolo differenziale/Funzione infinitesima.md",
     "ANALISI/Serie numeriche",
-    "ANALISI/Integrali/Integrale di Reimann.md",
     "ANALISI/Integrali/Calcolo degli integrali",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231205163840.png",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231128181753.png",
@@ -187,7 +188,6 @@
     "Untitled.canvas",
     "ALGEBRA LINEARE",
     "ANALISI",
-    "Calcolo differenziale/Teoremi",
-    "ANALISI/Funzioni continue"
+    "Calcolo differenziale/Teoremi"
   ]
 }

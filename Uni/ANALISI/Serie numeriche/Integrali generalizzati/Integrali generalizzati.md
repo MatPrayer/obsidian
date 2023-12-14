@@ -19,15 +19,25 @@ $$
 \int_{a}^b f(x) \, dx := \lim_{ \epsilon \to 0^+ } \int_{a}^{b-\epsilon} f(x)  \, dx  
 $$
 
-Se il limite è finito, diciamo che $f$ è ***integrabile in senso generalizzato in $(a,b)$*** e che l'integrale improprio è [[Serie numeriche#^a217d7|convergente]].
-Se il limite vale $\pm \infty$, diciamo che l'integrale improprio è [[Serie numeriche#^9c26fa|divergente]].
+- Se il limite è finito, diciamo che $f$ è ***integrabile in senso generalizzato in $(a,b)$*** e che l'integrale improprio è ***convergente***. ^991ad9
+- Se il limite vale $\pm \infty$, diciamo che l'integrale improprio è ***divergente***.
 
 ![[Screenshot 2023-12-07 at 11.33.20.png]]
 
+***
+## Integrabilità di $\frac{1}{x^\alpha}$ per $x\to 0$
+
+$$
+\int_{0}^1 \frac{1}{x^\alpha}  \, dx = \begin{cases}
+\frac{1}{1-\alpha} \text{ se } 0<\alpha<1\\ \\
++\infty \text{ se } \alpha\ge 1
+\end{cases} 
+$$
+***
 # Definizione di integrale generalizzato in un intervallo illimitato
 
 Sia $f:[a,+\infty)\to\Re$ integrabile in $[a,M]$ per ogni $M>a$.
-Definiamo l'***integrale improprio o generalizzato*** di $f$ in $(a,+\infty)$ come il limite (se esiste):
+Definiamo l'***integrale improprio o generalizzato*** di $f$ in $(a,+\infty)$ come il limite (se esiste): ^f420f4
 $$
 \int_{a}^{+\infty} f(x)  \, dx := \lim_{M\to +\infty}\int _{a}^M f(x) \, dx  
 $$
@@ -36,3 +46,12 @@ $$
 \int_{-\infty}^b f(x)  \, dx := \lim_{ n \to -\infty }\int_{M}^b f(x)  \, dx   
 $$
 ![[Screenshot 2023-12-07 at 11.47.21.png]]
+***
+## Integrabilità di $\frac{1}{x^\alpha}$ per $x\to \infty$
+$$
+\int_{0}^\infty \frac{1}{x^\alpha}  \, dx = \begin{cases}
+\frac{1}{\alpha-1} \text{ se } \alpha > 1 \\ \\
++\infty \text{ se } \alpha\le 1
+\end{cases} 
+$$
+***

@@ -192,6 +192,8 @@ cc
 cO
 calcolare
 calcola
+cambiano
+classificazione
 sia
 sono
 se
@@ -333,6 +335,9 @@ sommano
 scrivono
 similarit
 simili
+scambiano
+singolarit
+seguente
 derivabile
 derivabili
 detto
@@ -446,6 +451,7 @@ descritti
 diagonalizzabilit
 diagonalizzabile
 diagonale
+definite
 in
 il
 indicato
@@ -535,6 +541,7 @@ iUo
 if
 icY
 iu
+intorno
 Allora
 Algebra
 Associativa
@@ -733,6 +740,7 @@ ta
 te
 twR
 tipi
+teoremi
 le
 limite
 limiti
@@ -863,6 +871,7 @@ figurare
 fattori
 frazione
 frazioni
+ff
 Esempi
 Esempio
 Esiste
@@ -989,6 +998,7 @@ vF
 vYm
 vD
 vr
+valere
 assoluto
 abbiamo
 ad
@@ -1087,6 +1097,7 @@ aP
 auE
 all
 algebrica
+armoniche
 punti
 punto
 principale
@@ -2026,6 +2037,8 @@ radici
 risultati
 riconducendosi
 razionali
+ricordiamo
+ruolo
 Minimo
 Massimo
 Massimi
@@ -2173,6 +2186,7 @@ gII
 gg
 ggg
 gm
+generalizzate
 Il
 Indicato
 Infatti
@@ -2231,6 +2245,7 @@ IZ
 Ii
 Integrale
 Input
+Integrabilit
 Linearit
 La
 Leibnitz
@@ -2312,6 +2327,7 @@ RTTd
 RG
 RM
 RYY
+Reminder
 quoziente
 qualunque
 quale
