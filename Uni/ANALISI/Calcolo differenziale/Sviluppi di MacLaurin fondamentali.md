@@ -20,5 +20,9 @@ $$\tan(x)=x+\frac{x^3}{3}+\frac{2}{15}x^5+o(x^6)\qquad\text{per }|x|<\frac{\pi}{
 $$\arctan(x)=\sum_{k=0}^n(-1)^k\frac{x^{2k+1}}{2k+1}+o(x^{2n+1})$$
 - **Sviluppo del binomio** *(con [[coefficiente binomiale]])*
 $$(1+x)^\alpha=\sum_{k=0}^{n}\binom{\alpha}{k}x^k+o(x^n)$$
+$$
+(1+x)^\alpha=\frac{\alpha(\alpha-1)(\alpha-2)\ldots(\alpha-n+1)}{n!}x^n
+$$
 - **Sviluppo del binomio per $\alpha=-1$**
 $$\frac{1}{1+x}=\sum_{k=0}^n(-1)^kx^k+o(x^n)$$
+

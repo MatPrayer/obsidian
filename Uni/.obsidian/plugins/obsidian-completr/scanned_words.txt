@@ -194,6 +194,7 @@ calcolare
 calcola
 cambiano
 classificazione
+coefficiente
 sia
 sono
 se
@@ -1800,6 +1801,7 @@ bT
 ba
 bo
 bg
+binomiale
 Funzione
 Fermat
 Formula

@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
+                "file": "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acc0507082fe6d9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANALISI/Calcolo differenziale/Coefficiente binomiale.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
+                "file": "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
+                "file": "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie.md"
+                "file": "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md"
               }
             }
           }
@@ -144,6 +157,9 @@
   },
   "active": "6c61caebfb3cca76",
   "lastOpenFiles": [
+    "ANALISI/Calcolo differenziale/Coefficiente binomiale.md",
+    "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
+    "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
     "ANALISI/Serie numeriche/Serie armonica generalizzata.md",
     "ANALISI/Serie numeriche/Integrali generalizzati/Test integrale.md",
     "ANALISI/Serie numeriche/Integrali generalizzati/Serie e integrali generalizzati.md",
@@ -155,7 +171,6 @@
     "ANALISI/Serie numeriche/Integrali generalizzati",
     "ANALISI/Serie numeriche/Criterio del confronto asintotico.md",
     "ANALISI/Integrali/Simmetrie negli integrali.md",
-    "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
     "ALGEBRA LINEARE/Autovalori ed autovettori (WIP).md",
     "ALGEBRA LINEARE/Diagonalizzabilità.md",
     "ALGEBRA LINEARE/Base ortonormale (WIP).md",
@@ -169,12 +184,10 @@
     "ALGEBRA LINEARE/Allegati/Pasted image 20231128181753 1.png",
     "ANALISI/Integrali/Allegati/Screenshot 2023-12-07 at 11.33.20.png",
     "ANALISI/Integrali/Allegati/Screenshot 2023-12-07 at 11.47.21.png",
-    "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
     "ANALISI/Serie numeriche/Criteri del rapporto e della radice n-esima.md",
     "ANALISI/Serie numeriche/Criterio del confronto.md",
     "ANALISI/Serie numeriche/Criterio di Leibnitz.md",
     "ANALISI/Serie numeriche/Serie a segni alterni.md",
-    "ANALISI/Serie numeriche/Criterio di convergenza assoluta.md",
     "ANALISI/Serie numeriche",
     "ANALISI/Integrali/Calcolo degli integrali",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231205163840.png",
