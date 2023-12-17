@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -157,14 +158,16 @@
   },
   "active": "6c61caebfb3cca76",
   "lastOpenFiles": [
-    "ANALISI/Calcolo differenziale/Coefficiente binomiale.md",
+    "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
+    "ANALISI/Serie numeriche/Serie geometriche.md",
+    "ANALISI/Serie numeriche/Integrali generalizzati/Integrali generalizzati.md",
     "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
+    "ANALISI/Calcolo differenziale/Coefficiente binomiale.md",
     "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
     "ANALISI/Serie numeriche/Serie armonica generalizzata.md",
     "ANALISI/Serie numeriche/Integrali generalizzati/Test integrale.md",
     "ANALISI/Serie numeriche/Integrali generalizzati/Serie e integrali generalizzati.md",
     "ANALISI/Serie numeriche/Integrali generalizzati/Criterio di convergenza assoluta.md",
-    "ANALISI/Serie numeriche/Integrali generalizzati/Integrali generalizzati.md",
     "ANALISI/Serie numeriche/Integrali generalizzati/Il simbolo di asintotico.md",
     "ANALISI/Serie numeriche/Integrali generalizzati/Criterio del confronto.md",
     "ANALISI/Serie numeriche/Integrali generalizzati/Criterio del confronto asintotico.md",
@@ -186,8 +189,6 @@
     "ANALISI/Integrali/Allegati/Screenshot 2023-12-07 at 11.47.21.png",
     "ANALISI/Serie numeriche/Criteri del rapporto e della radice n-esima.md",
     "ANALISI/Serie numeriche/Criterio del confronto.md",
-    "ANALISI/Serie numeriche/Criterio di Leibnitz.md",
-    "ANALISI/Serie numeriche/Serie a segni alterni.md",
     "ANALISI/Serie numeriche",
     "ANALISI/Integrali/Calcolo degli integrali",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231205163840.png",
