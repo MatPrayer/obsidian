@@ -11,12 +11,9 @@
             "id": "6c61caebfb3cca76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "ANALISI/Integrali/Allegati/Screenshot 2023-12-05 at 17.29.28.png"
               }
             }
           },
@@ -70,13 +67,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "305bb61ca451179f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "821ed71eede5b349",
@@ -92,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
+                "file": "ANALISI/Integrali/Allegati/Screenshot 2023-12-05 at 17.29.28.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
+                "file": "ANALISI/Integrali/Allegati/Screenshot 2023-12-05 at 17.29.28.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md"
+                "file": "ANALISI/Integrali/Allegati/Screenshot 2023-12-05 at 17.29.28.png"
               }
             }
           }
@@ -158,10 +162,13 @@
   },
   "active": "6c61caebfb3cca76",
   "lastOpenFiles": [
+    "ANALISI/Integrali/Allegati/Pasted image 20231127182349.png",
+    "ANALISI/Integrali/Allegati/Pasted image 20231127182308.png",
+    "ANALISI/Integrali/Teorema della media.md",
+    "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
     "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
     "ANALISI/Serie numeriche/Serie geometriche.md",
     "ANALISI/Serie numeriche/Integrali generalizzati/Integrali generalizzati.md",
-    "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
     "ANALISI/Calcolo differenziale/Coefficiente binomiale.md",
     "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
     "ANALISI/Serie numeriche/Serie armonica generalizzata.md",
@@ -187,16 +194,12 @@
     "ALGEBRA LINEARE/Allegati/Pasted image 20231128181753 1.png",
     "ANALISI/Integrali/Allegati/Screenshot 2023-12-07 at 11.33.20.png",
     "ANALISI/Integrali/Allegati/Screenshot 2023-12-07 at 11.47.21.png",
-    "ANALISI/Serie numeriche/Criteri del rapporto e della radice n-esima.md",
-    "ANALISI/Serie numeriche/Criterio del confronto.md",
     "ANALISI/Serie numeriche",
     "ANALISI/Integrali/Calcolo degli integrali",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231205163840.png",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231128181753.png",
     "ALGEBRA LINEARE/Allegati",
-    "ANALISI/Integrali/Allegati/Pasted image 20231127182349.png",
     "ANALISI/Integrali/Allegati",
-    "ANALISI/Integrali/Allegati/Pasted image 20231127182308.png",
     "ANALISI/Integrali",
     "PROGRAMMAZIONE",
     "Untitled.canvas",
