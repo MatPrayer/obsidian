@@ -1,5 +1,12 @@
 ---
 ~
 ---
-Sia $f:[a,b]\to\Re$ continua su $[a,b]$ e derivabile su $(a,b)$. Supponiamo che $f(a)=f(b)$.
-Allora esiste $c\in(a,b)$ tale che $f'(c)=0$.
+Sia $f$ una funzione continua in un intervallo chiuso e limitato $[a,b]$, e derivabile in $(a,b)$. 
+Se assume valori uguali agli estremi:
+$$
+f(a)=f(b)
+$$
+esiste almeno un punto $x_{0}$ interno all'intervallo in cui la sua derivata si annulla:
+$$
+f'(x_{0})=0
+$$

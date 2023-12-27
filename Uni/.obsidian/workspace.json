@@ -11,9 +11,12 @@
             "id": "6c61caebfb3cca76",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ANALISI/Integrali/Allegati/Screenshot 2023-12-05 at 17.29.28.png"
+                "file": "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Integrali/Allegati/Screenshot 2023-12-05 at 17.29.28.png",
+                "file": "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Integrali/Allegati/Screenshot 2023-12-05 at 17.29.28.png",
+                "file": "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Integrali/Allegati/Screenshot 2023-12-05 at 17.29.28.png"
+                "file": "ANALISI/Calcolo differenziale/Teorema di Lagrange.md"
               }
             }
           }
@@ -162,6 +165,10 @@
   },
   "active": "6c61caebfb3cca76",
   "lastOpenFiles": [
+    "ANALISI/Calcolo differenziale/Teorema di Cauchy.md",
+    "ANALISI/Calcolo differenziale/Teorema di Rolle.md",
+    "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
+    "ANALISI/Integrali/Allegati/Screenshot 2023-12-05 at 17.29.28.png",
     "ANALISI/Integrali/Allegati/Pasted image 20231127182349.png",
     "ANALISI/Integrali/Allegati/Pasted image 20231127182308.png",
     "ANALISI/Integrali/Teorema della media.md",
@@ -188,9 +195,6 @@
     "ANALISI/Integrali/TODO.md",
     "ANALISI/Integrali/La funzione integrale.md",
     "ANALISI/Integrali/Integrale indefinito.md",
-    "ANALISI/Integrali/Proprietà dell'integrale.md",
-    "ANALISI/Integrali/Calcolo degli integrali/Formula fondamentale del calcolo integrale.md",
-    "ANALISI/Integrali/Allegati/Screenshot 2023-12-05 at 17.29.28.png",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231128181753 1.png",
     "ANALISI/Integrali/Allegati/Screenshot 2023-12-07 at 11.33.20.png",
     "ANALISI/Integrali/Allegati/Screenshot 2023-12-07 at 11.47.21.png",

@@ -586,6 +586,7 @@ icI
 igS
 iC
 iUKWO
+interno
 Allora
 Algebra
 Associativa
@@ -1236,6 +1237,9 @@ am
 ag
 az
 aMD
+assume
+agli
+annulla
 punti
 punto
 principale
@@ -1498,6 +1502,7 @@ udL
 uS
 uz
 ut
+uguali
 ed
 esiste
 enunciato

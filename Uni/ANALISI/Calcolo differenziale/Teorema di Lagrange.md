@@ -3,8 +3,10 @@
 ---
 # Teorema di Lagrange
 
-Sia $f:[a,b]\to\Re$ continua su $[a,b]$ e derivabile su $(a,b)$.
-Allora esiste $c\in(a,b)$ tale che $f'(c)=\frac{f(b)-f(a)}{b-a}$
+Sia $f$ una funzione continua nell'intervallo chiuso e limitato $[a,b]$ e derivabile in $(a,b)$.
+Allora esiste almeno un punto $x_{0}$ tale che:$$
+f'(x_{0})=\frac{f(b)-f(a)}{b-a}
+$$
 
 ### Caratterizzazione delle funzioni monotòne su intervalli
 Sia $f:(a,b)\to\Re$ una funzione derivabile. 
