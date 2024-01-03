@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
+                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "telesc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
+                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
+                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANALISI/Calcolo differenziale/Teorema di Lagrange.md"
+                "file": "ANALISI/Serie numeriche/Schema per lo studio delle serie.md"
               }
             }
           }
@@ -145,13 +146,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "6c61caebfb3cca76",
   "lastOpenFiles": [
-    "Serie telescopiche.md",
+    "ANALISI/Serie numeriche/Serie geometriche.md",
+    "ANALISI/Serie numeriche/Serie numeriche.md",
     "ANALISI/Calcolo differenziale/Teorema di Lagrange.md",
+    "Serie telescopiche.md",
     "ANALISI/Calcolo differenziale/Teorema di Cauchy.md",
     "ANALISI/Calcolo differenziale/Teorema di Rolle.md",
     "ANALISI/Integrali/Allegati/Screenshot 2023-12-05 at 17.29.28.png",
@@ -160,7 +164,6 @@
     "ANALISI/Integrali/Teorema della media.md",
     "ANALISI/Calcolo differenziale/Sviluppi di MacLaurin fondamentali.md",
     "ANALISI/Calcolo differenziale/Polinomio di Taylor - MacLaurin.md",
-    "ANALISI/Serie numeriche/Serie geometriche.md",
     "ANALISI/Serie numeriche/Integrali generalizzati/Integrali generalizzati.md",
     "ANALISI/Calcolo differenziale/Coefficiente binomiale.md",
     "ANALISI/Serie numeriche/Schema per lo studio delle serie.md",
@@ -179,7 +182,6 @@
     "ALGEBRA LINEARE/Base ortonormale (WIP).md",
     "ANALISI/Integrali/Calcolo degli integrali/Integrazione delle funzioni razionali.md",
     "ANALISI/Integrali/TODO.md",
-    "ANALISI/Integrali/La funzione integrale.md",
     "ALGEBRA LINEARE/Allegati/Pasted image 20231128181753 1.png",
     "ANALISI/Integrali/Allegati/Screenshot 2023-12-07 at 11.33.20.png",
     "ANALISI/Integrali/Allegati/Screenshot 2023-12-07 at 11.47.21.png",
